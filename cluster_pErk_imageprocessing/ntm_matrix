@@ -1,0 +1,10 @@
+	addvalue = 0
+	1	2	3	4	5	6	7	8	9	10	11	12
+	A	hom	wt	het	het	hom	wt	het	hom	hom	het	het	het
+	B	het	hom	wt	het	het	het	wt	hom	het	het	het	wt
+	C	het	het	wt	hom	het	wt	het	wt	het	wt	hom	het
+	D	het	wt	het	wt	hom	het	het	hom	het	wt	het	hom
+	E	hom	hom	hom	het	het	wt	hom	hom	wt	het	hom	het
+	F	wt	wt	het	wt	het	het	het	het	hom	het	het	e
+	G	e	e	e	e	e	e	e	e	e	e	e	e
+	H	e	e	e	e	e	e	e	e	e	e	e	e
