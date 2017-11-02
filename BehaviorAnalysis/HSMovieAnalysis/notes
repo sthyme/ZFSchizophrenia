@@ -1,0 +1,3 @@
+Many of the included files here are not used in the tracking, but this code was built off of code from Ian Woods paper:
+"VideoHacking: Automated Tracking and Quantification of Locomotor Behavior with Open Source Software and Off-the-Shelf Video Equipment."
+Some of the functions from this paper are used in my tracking code, but much is not and is still included here because I did not bother to remove dependencies.
