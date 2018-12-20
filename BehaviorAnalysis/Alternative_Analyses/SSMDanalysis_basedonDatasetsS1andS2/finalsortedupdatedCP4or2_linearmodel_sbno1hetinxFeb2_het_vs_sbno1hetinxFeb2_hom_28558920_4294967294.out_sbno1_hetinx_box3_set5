@@ -1,0 +1,1838 @@
+Lowest Location in well day2night2: -0.114
+Average Location in well day2night2: -0.314375
+Lowaverage (reg if not >3, <0.05) Location in well day2night2: -0.314375
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2night2.png, 0.831, -0.006
+ribgraph_mean_ribbonbout_averhofrac_10min_day2night2.png, -0.235, -0.032
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2night2.png, 0.427, -0.012
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2night2.png, -0.216, -0.033
+ribgraph_mean_ribbonbout_centerfrac_10min_day2night2.png, -0.27, 0.052
+ribgraph_mean_ribbonbout_centerfrac_min_day2night2.png, -0.114, 0.056
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2night2.png, -0.218, -0.04
+ribgraph_mean_ribbonbout_averhofrac_min_day2night2.png, -0.204, -0.029
+Lowest Location in well day2night1: -0.105
+Average Location in well day2night1: -0.418125
+Lowaverage (reg if not >3, <0.05) Location in well day2night1: -0.418125
+ribgraph_mean_ribbonbout_averhofrac_10min_day2night1.png, 0.917, 0.002
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2night1.png, -0.194, 0.02
+ribgraph_mean_ribbonbout_centerfrac_10min_day2night1.png, -0.117, 0.053
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2night1.png, 0.435, 0.026
+ribgraph_mean_ribbonbout_averhofrac_min_day2night1.png, -0.901, -0.003
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2night1.png, 0.293, 0.027
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2night1.png, -0.105, 0.038
+ribgraph_mean_ribbonbout_centerfrac_min_day2night1.png, -0.383, 0.028
+Lowest Day all strong tap: -1.49542539001e-05
+Average Day all strong tap: -0.277461004301
+Lowaverage (reg if not >2, <0.05) Day all strong tap: -0.0116258796136
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_adaytappostbdaytappre102.png, 0.98770824008, 0.48367293626
+smallmovesribgraph_mean_ribbon_speedresponse_dist_bdaytappostcdaytappre102.png, 0.201642922559, -0.032405664451
+ribgraph_mean_ribbon_freqresponse_dpix_adaytappostbdaytappre102.png, 0.12481006737, -0.110641025641
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition102.png, -0.933925088253, 0.0080307692308
+ribgraph_mean_ribbon_freqresponse_dpix_bdaytappostcdaytappre102.png, 0.656367330731, -0.025384615385
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_adaytappostbdaytappre102.png, 0.00364798777307, 13.825
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition102.png, 0.00110327053978, 11.3564519387
+ribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition102.png, 0.0182010203556, -0.073687464541
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_adaytappostbdaytappre102.png, 0.0199137629039, -0.106794871795
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_adaytappostbdaytappre102.png, -0.410105755595, 10.4598958333
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_bdaytappostcdaytappre102.png, 0.0638706385749, 9.0360576923
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_cdaytappost102.png, -0.500622248207, 0.002420115858
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition102.png, -1.49542539001e-05, 18.1002480857
+ribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition102.png, -0.00447111373425, 12.014710222
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_dayprepulseinhibition102.png, 0.975278444294, 0.2512820513
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytappost102.png, -0.00879353907566, 13.874017446
+ribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition102.png, -0.328226501003, 1.9356526426
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition102.png, -0.0511874134567, -0.53296380729
+smallmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition102.png, 0.0641921683344, -0.040160550457
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_adaytappostbdaytappre102.png, 0.0281553259074, 13.475
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_cdaytappost102.png, 0.0785790339967, 11.9949392712
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_cdaytappost102.png, 0.0634822649541, 18.8957489878
+ribgraph_mean_ribbon_speedresponse_dist_cdaytappost102.png, 0.0290383587514, -0.085580487898
+bigmovesribgraph_mean_ribbon_peakspeed_cdaytappost102.png, -0.059992672257, 0.34219873541
+bigmovesribgraph_mean_ribbon_polygonarea_dist_adaytappostbdaytappre102.png, -0.266804962703, 21.1498316501
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_adaytappostbdaytappre102.png, 0.0624830213206, -0.06189731064
+bigmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition102.png, -0.00200179133815, 0.26367941102
+smallmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition102.png, -7.57374017421e-05, 18.547453131
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition102.png, -0.626798170452, 51.762467717
+smallmovesribgraph_mean_ribbon_polygonarea_dist_bdaytappostcdaytappre102.png, -0.135396717504, 12.69624183
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition102.png, 0.615721349864, -0.003500604354
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition102.png, -0.162687018884, 4.664917631
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_dayprepulseinhibition102.png, 0.956687627187, 1.4134615385
+ribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytappost102.png, -0.399269143171, 197.96514845
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_cdaytappost102.png, -0.828238155015, -0.46722222222
+bigmovesribgraph_mean_ribbon_displacement_dist_cdaytappost102.png, -0.00994544126553, 12.7938164271
+ribgraph_mean_ribbon_polygonarea_dist_bdaytappostcdaytappre102.png, -0.123958285312, 19.2692043142
+ribgraph_mean_ribbon_freqresponse_dpix_cdaytappost102.png, 0.0580712099461, -0.100256410256
+bigmovesribgraph_mean_ribbon_peakdpix_cdaytappost102.png, -0.0446809053487, 27.244444444
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytappostcdaytappre102.png, -0.000165661297541, 747.31929293
+bigmovesribgraph_mean_ribbon_peakdpix_adaytappostbdaytappre102.png, -0.0104596989725, 26.512016719
+ribgraph_mean_ribbon_displacement_dist_cdaytappost102.png, -0.309707784871, 5.1558449323
+ribgraph_mean_ribbon_displacement_dist_adaytappostbdaytappre102.png, 0.528790637784, -1.4631946953
+bigmovesribgraph_mean_ribbon_peakdpix_bdaytappostcdaytappre102.png, -0.00411266783092, 34.948080808
+ribgraph_mean_ribbon_latencyresponse_dpix_cdaytappost102.png, 0.0136266755382, 12.0238697705
+smallmovesribgraph_mean_ribbon_polygonarea_dist_cdaytappost102.png, 0.267486028596, -19.4704301075
+smallmovesribgraph_mean_ribbon_peakdpix_cdaytappost102.png, 0.0130343915331, -37.6042780744
+ribgraph_mean_ribbon_fullboutdatamax_dist_cdaytappost102.png, 0.109024263196, -0.87853730126
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_adaytappostbdaytappre102.png, 0.948927102938, -0.0038461538462
+bigmovesribgraph_mean_ribbon_polygonarea_dist_bdaytappostcdaytappre102.png, -0.0115568149946, 50.4702797203
+ribgraph_mean_ribbon_fullboutdatamax_dpix_bdaytappostcdaytappre102.png, 0.685414083745, -0.03003663
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_adaytappostbdaytappre102.png, -0.854805453387, 0.5114494276
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_bdaytappostcdaytappre102.png, -0.000368594634291, 26.9609595959
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition102.png, 0.00067808910323, -0.112512820513
+ribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytappost102.png, -0.530786262901, 3.8445512834
+ribgraph_mean_ribbon_fullboutdatamax_dist_adaytappostbdaytappre102.png, 0.384915882012, -0.48280186489
+bigmovesribgraph_mean_ribbon_displacement_dist_bdaytappostcdaytappre102.png, -0.0016415514789, 15.3932712658
+ribgraph_mean_ribbon_timeresponse_dpix_cdaytappost102.png, -0.0570206409571, 18.1465080972
+ribgraph_mean_ribbon_speedresponse_dist_bdaytappostcdaytappre102.png, 0.186540991518, -0.082160519819
+ribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition102.png, -0.598575768933, 0.3923113391
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_cdaytappost102.png, -0.0570232611621, 18.4233333333
+ribgraph_mean_ribbon_peakdpix_dayprepulseinhibition102.png, 0.434124139869, -9.966868535
+smallmovesribgraph_mean_ribbon_displacement_dist_cdaytappost102.png, -0.321918735274, 3.22261579611
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_bdaytappostcdaytappre102.png, 0.360991378627, 8.5705128205
+ribgraph_mean_ribbon_fullboutdatamax_dist_bdaytappostcdaytappre102.png, 0.328313424468, -0.2757389174
+smallmovesribgraph_mean_ribbon_displacement_dist_adaytappostbdaytappre102.png, -0.582948665073, 1.84596323338
+bigmovesribgraph_mean_ribbon_polygonarea_dist_cdaytappost102.png, -0.472020809129, 5.1305555556
+ribgraph_mean_ribbon_latencyresponse_dpix_adaytappostbdaytappre102.png, 0.00673089294906, 13.7625694445
+smallmovesribgraph_mean_ribbon_displacement_dist_bdaytappostcdaytappre102.png, -0.629480511396, 1.6650597434
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytappostcdaytappre102.png, -0.787488430169, 29.856481481
+ribgraph_mean_ribbon_timeresponse_dpix_adaytappostbdaytappre102.png, -0.184887900515, 13.6835416666
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_adaytappostbdaytappre102.png, -0.797816662158, 0.006311542313
+ribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition102.png, 0.00811397170704, -0.070902844627
+ribgraph_mean_ribbon_peakdpix_adaytappostbdaytappre102.png, 0.466855684134, -11.595
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition102.png, -0.0304225471182, 0.017070832349
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_adaytappostbdaytappre102.png, -0.243543312077, 5.6715424638
+ribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition102.png, 0.000121441373944, 8.1115751496
+ribgraph_mean_ribbon_velocityresponse_dist_bdaytappostcdaytappre102.png, 0.712992536423, -0.039740823316
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_adaytappostbdaytappre102.png, -0.197492621873, 18.4252873564
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_cdaytappost102.png, -0.103912968747, 16.5477941176
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytappost102.png, -0.0126595713627, 561.96904762
+ribgraph_mean_ribbon_totaldistanceresponse_dist_adaytappostbdaytappre102.png, -0.913525264971, 0.2568355764
+ribgraph_mean_ribbon_fullboutdatamax_dpix_adaytappostbdaytappre102.png, 0.307237232471, -17.679801588
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_bdaytappostcdaytappre102.png, -0.37737955917, 0.041535299734
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_bdaytappostcdaytappre102.png, -0.134761839801, -1.12053030303
+ribgraph_mean_ribbon_peakspeed_bdaytappostcdaytappre102.png, 0.359727952845, -0.12935077229
+bigmovesribgraph_mean_ribbon_peakspeed_bdaytappostcdaytappre102.png, -0.180555113832, 0.37747684138
+bigmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition102.png, -0.00246809376762, 30.14407564
+smallmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition102.png, 0.0598070957453, -0.103945192456
+smallmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition102.png, 0.0234180035881, -23.051316799
+bigmovesribgraph_mean_ribbon_speedresponse_dist_cdaytappost102.png, -0.398024719507, 0.032392702831
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_cdaytappost102.png, 0.0237915730676, 14.6717171717
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytappost102.png, -0.771422261554, 57.493315508
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytappostcdaytappre102.png, -0.00051642254154, 18.5171867441
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_bdaytappostcdaytappre102.png, -0.610629510819, 0.017959539968
+ribgraph_mean_ribbon_peakdpix_bdaytappostcdaytappre102.png, -0.874058298309, 4.865067919
+ribgraph_mean_ribbon_fullboutdatamax_dpix_dayprepulseinhibition102.png, 0.0326890515863, -25.895351317
+ribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytappostcdaytappre102.png, -0.0220487307129, 335.35797466
+ribgraph_mean_ribbon_cumdpixresponse_dpix_adaytappostbdaytappre102.png, -0.434290955621, 158.80964286
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_bdaytappostcdaytappre102.png, 0.381640490505, 5.9825925926
+bigmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition102.png, -0.000527460216637, 7.5848133378
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_cdaytappost102.png, 0.242430514085, -0.0419230769231
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytappostcdaytappre102.png, 0.609523380351, -1.675277623
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition102.png, -1.49726744336e-05, 11.783993192
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_adaytappostbdaytappre102.png, 0.0264853678916, 19.2427083333
+bigmovesribgraph_mean_ribbon_speedresponse_dist_bdaytappostcdaytappre102.png, -0.536631778969, 0.028921146212
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_cdaytappost102.png, -0.331086670994, 0.056095049027
+ribgraph_mean_ribbon_timeresponse_dpix_bdaytappostcdaytappre102.png, -0.0126756410373, 17.2411324787
+ribgraph_mean_ribbon_fullboutdatamax_dist_dayprepulseinhibition102.png, 0.299336148656, -0.47256487576
+smallmovesribgraph_mean_ribbon_peakspeed_adaytappostbdaytappre102.png, 0.180741502137, -0.153300686012
+ribgraph_mean_ribbon_peakdpix_cdaytappost102.png, 0.234519431709, -21.746997301
+ribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition102.png, -0.0023786405273, 22.8640810056
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_cdaytappost102.png, 0.0598759565245, -0.058333333333
+ribgraph_mean_ribbon_fullboutdatamax_dpix_cdaytappost102.png, 0.141637800533, -20.634952766
+smallmovesribgraph_mean_ribbon_peakdpix_bdaytappostcdaytappre102.png, 0.532433265005, -10.173148148
+ribgraph_mean_ribbon_polygonarea_dist_adaytappostbdaytappre102.png, -0.730697859357, 6.3682387057
+ribgraph_mean_ribbon_latencyresponse_dpix_bdaytappostcdaytappre102.png, 0.171486226986, 7.5571314103
+smallmovesribgraph_mean_ribbon_polygonarea_dist_adaytappostbdaytappre102.png, -0.904479345362, 7.332635468
+ribgraph_mean_ribbon_peakspeed_dayprepulseinhibition102.png, 0.259274914608, -0.12873996849
+ribgraph_mean_ribbon_peakspeed_adaytappostbdaytappre102.png, 0.447086484554, -0.14596115933
+ribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition102.png, 0.0086152310211, -0.104482051282
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition102.png, -0.432890244063, 0.3763942714
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_bdaytappostcdaytappre102.png, -0.765576657595, 3.9050925926
+ribgraph_mean_ribbon_velocityresponse_dist_cdaytappost102.png, 0.430163860974, -0.005682233396
+bigmovesribgraph_mean_ribbon_peakspeed_adaytappostbdaytappre102.png, -0.125852250938, 0.20736220839
+smallmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition102.png, -0.0292404090675, 2.2552370965
+smallmovesribgraph_mean_ribbon_peakspeed_bdaytappostcdaytappre102.png, 0.494614566343, -0.033310423047
+bigmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition102.png, -2.05755863799e-05, 49.9062184969
+smallmovesribgraph_mean_ribbon_speedresponse_dist_adaytappostbdaytappre102.png, 0.0570398742491, -0.074004788425
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_adaytappostbdaytappre102.png, -0.883617459381, 90.49791667
+smallmovesribgraph_mean_ribbon_speedresponse_dist_cdaytappost102.png, 0.00366964678853, -0.132480587865
+smallmovesribgraph_mean_ribbon_peakdpix_adaytappostbdaytappre102.png, 0.12876875876, -28.036904762
+ribgraph_mean_ribbon_velocityresponse_dist_adaytappostbdaytappre102.png, 0.0252852256922, -0.084985219014
+bigmovesribgraph_mean_ribbon_speedresponse_dist_adaytappostbdaytappre102.png, 0.208736686308, -0.033616178874
+smallmovesribgraph_mean_ribbon_peakspeed_cdaytappost102.png, 0.00202407852363, -0.57501385986
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_bdaytappostcdaytappre102.png, 0.0854928971527, -0.070384615385
+ribgraph_mean_ribbon_speedresponse_dist_adaytappostbdaytappre102.png, 0.0351431258017, -0.097626674991
+bigmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition102.png, -0.396997424386, 0.023088145092
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytappost102.png, -0.978928566243, 0.838820345
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_adaytappostbdaytappre102.png, -0.066867701581, 437.27037618
+ribgraph_mean_ribbon_peakspeed_cdaytappost102.png, 0.0816366764206, -0.34114644656
+ribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition102.png, -0.136460860608, 163.59470264
+ribgraph_mean_ribbon_polygonarea_dist_cdaytappost102.png, 0.421421397015, -15.0585800773
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition102.png, -4.24335920749e-05, 531.93039492
+bigmovesribgraph_mean_ribbon_displacement_dist_adaytappostbdaytappre102.png, -0.843908857384, 1.4553449075
+ribgraph_mean_ribbon_displacement_dist_bdaytappostcdaytappre102.png, -0.121171550226, 4.6521552972
+ribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytappostcdaytappre102.png, -0.307026401445, 4.313745701
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_bdaytappostcdaytappre102.png, -0.198051515276, 0.045
+Lowest Features of movement day1night: 0.001
+Average Features of movement day1night: 0.0625
+Lowaverage (reg if not >3, <0.05) Features of movement day1night: 0.0065
+ribgraph_mean_ribbonbout_aveboutdist_10min_day1night.png, 0.001, -5.193
+ribgraph_mean_ribbonbout_avebouttime_10min_day1night.png, -0.016, 4.184
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day1night.png, -0.001, 18.671
+ribgraph_mean_ribbonbout_aveboutspeed_min_day1night.png, 0.001, -0.147
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day1night.png, -0.001, 18.129
+ribgraph_mean_ribbonbout_aveboutdist_min_day1night.png, 0.001, -5.047
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day1night.png, -0.018, 1.99
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day1night.png, 0.001, -0.156
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day1night.png, -0.001, 23.041
+ribgraph_mean_ribbonbout_avebouttime_min_day1night.png, -0.013, 4.216
+ribgraph_mean_ribbonbout_aveboutvel_10min_day1night.png, -0.023, 0.032
+ribgraph_mean_ribbonbout_aveboutvel_min_day1night.png, -0.568, 0.007
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day1night.png, -0.001, 13.097
+ribgraph_mean_ribbonbout_aveboutdisp_min_day1night.png, -0.229, 0.982
+Lowest Frequency of movement day2heatshock: -0.001
+Average Frequency of movement day2heatshock: -0.392666666667
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2heatshock: -0.0095
+ribgraph_mean_ribbon_dpixsecper_min_day2heatshock.png, -0.097, 3.161
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2heatshock.png, -0.48, -5.751
+ribgraph_mean_ribbon_dpixminper_10min_day2heatshock.png, 0.67, -0.283
+ribgraph_mean_ribbonbout_numberofbouts_min_day2heatshock.png, -0.001, 3.925
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2heatshock.png, -0.977, 0.664
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2heatshock.png, -0.865, -1.194
+ribgraph_mean_ribbon_distminper_10min_day2heatshock.png, 0.507, -0.447
+ribgraph_mean_ribbon_distsecper_min_day2heatshock.png, -0.004, 4.516
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2heatshock.png, -0.023, 4.061
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2heatshock.png, -0.977, -0.028
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2heatshock.png, -0.01, 35.532
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2heatshock.png, 0.101, 0.964
+Lowest Day tap habituation 2: 0.000594634682846
+Average Day tap habituation 2: 0.40597766075
+Lowaverage (reg if not >2, <0.05) Day tap habituation 2: 0.022795592096
+ribgraph_mean_ribbon_velocityresponse_dist_bdaytaphab102.png, 0.37425931928, -0.118473727815
+ribgraph_mean_ribbon_timeresponse_dpix_bdaytaphab1.png, 0.228860418415, -11.4635923621
+ribgraph_mean_ribbon_slowfullboutdatamax_dist_bdaytaphab1.png, -0.549132010399, 0.4821066872
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dist_bdaytaphab1.png, 0.151959951779, 12.5151515151
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_bdaytaphab102.png, 0.0899074215073, -0.0598290598289
+ribgraph_mean_ribbon_timeresponse_dpix_bdaytaphab102.png, -0.722145492658, 12.81875
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_bdaytaphab102.png, 0.0451913496862, 44.625
+ribgraph_mean_ribbon_freqresponse_dpix_bdaytaphab102.png, 0.00384821935802, -0.196153846154
+ribgraph_mean_ribbon_displacement_dist_bdaytaphab102.png, -0.858954922737, 1.1945156788
+bigmovesribgraph_mean_ribbon_peakspeed_bdaytaphab102.png, -0.299677159206, 0.32254008948
+ribgraph_mean_ribbon_fullboutdatamax_dist_bdaytaphab102.png, 0.150848864343, -1.00610825869
+bigmovesribgraph_mean_ribbon_polygonarea_dist_bdaytaphab102.png, 0.119782078645, -62.166666667
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_bdaytaphab102.png, -0.167464596312, 0.050843966646
+ribgraph_mean_ribbon_displacement_dist_bdaytaphab1.png, -1.0, 0.26529264957
+ribgraph_mean_ribbon_speedresponse_dist_bdaytaphab102.png, 0.0329693812442, -0.188649399393
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dpix_bdaytaphab1.png, 0.452745514014, 7.0795454545
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytaphab102.png, -0.569764367961, 49.128571429
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_bdaytaphab102.png, -0.684220534681, 11.35
+bigmovesribgraph_mean_ribbon_peakdpix_bdaytaphab102.png, -0.196705602459, 54.333333333
+bigmovesribgraph_mean_ribbon_displacement_dist_bdaytaphab102.png, -0.301699582478, 10.6338178159
+ribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytaphab102.png, 0.533964013469, -2.6543757081
+smallmovesribgraph_mean_ribbon_peakdpix_bdaytaphab102.png, 0.807210392221, -2.5285714286
+ribgraph_mean_ribbon_latencyresponse_dpix_bdaytaphab1.png, 0.156268603677, 65.859961654
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytaphab102.png, 0.807541106289, -1.2617310047
+ribgraph_mean_ribbon_polygonarea_dist_bdaytaphab102.png, 0.0828451332696, -49.79375
+ribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytaphab102.png, -0.78981027086, 156.8375
+ribgraph_mean_ribbon_slowfullboutdatamax_dpix_bdaytaphab1.png, 0.208318043707, -0.85796801736
+ribgraph_mean_ribbon_latencyresponse_dpix_bdaytaphab102.png, 0.105150391956, 12.90625
+ribgraph_mean_ribbon_freqresponse_dpix_bdaytaphab1.png, -0.377359212971, 0.064143920595
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytaphab102.png, -0.301699582478, 12.8619585832
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_bdaytaphab102.png, -0.301699582478, 36.1666666667
+ribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytaphab1.png, 0.186551056424, -7.3917426654
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_bdaytaphab102.png, 0.563702861651, 1.16666666666
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_bdaytaphab102.png, -0.070701144866, 836.41666667
+smallmovesribgraph_mean_ribbon_peakspeed_bdaytaphab102.png, 0.927695628452, -0.408828982285
+smallmovesribgraph_mean_ribbon_displacement_dist_bdaytaphab102.png, -0.222414885027, 5.13595830809
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_bdaytaphab102.png, 0.000594634682846, -0.136324786325
+smallmovesribgraph_mean_ribbon_polygonarea_dist_bdaytaphab102.png, 0.819168181754, -1.4166666667
+bigmovesribgraph_mean_ribbon_speedresponse_dist_bdaytaphab102.png, 0.438578026081, -0.193204705914
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_bdaytaphab102.png, 0.870315226835, 8.65
+ribgraph_mean_ribbon_peakspeed_bdaytaphab102.png, 0.143033505217, -0.38741859943
+ribgraph_mean_ribbon_totaldistanceresponse_dist_bdaytaphab1.png, -0.8861140856, 1.259839852
+ribgraph_mean_ribbon_peakdpix_bdaytaphab102.png, -0.929162802466, 0.6375
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_bdaytaphab102.png, 0.0313743755088, 31.5
+ribgraph_mean_ribbon_fullboutdatamax_dpix_bdaytaphab102.png, -0.78981027086, 1.0375
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_bdaytaphab102.png, 0.438578026081, -0.171295339862
+smallmovesribgraph_mean_ribbon_speedresponse_dist_bdaytaphab102.png, 0.291152223184, -0.048846737827
+Lowest Day tap habituation 3: 0.000595405258063
+Average Day tap habituation 3: 0.438774453582
+Lowaverage (reg if not >2, <0.05) Day tap habituation 3: 0.0132589338463
+ribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytaphab1.png, 0.706774116014, -0.1571616765
+ribgraph_mean_ribbon_displacement_dist_cdaytaphab1.png, -0.304159969732, 0.59865010037
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_cdaytaphab102.png, 1.0, nan
+smallmovesribgraph_mean_ribbon_peakdpix_cdaytaphab102.png, 0.212946275156, -68.0576923077
+smallmovesribgraph_mean_ribbon_polygonarea_dist_cdaytaphab102.png, 0.584547248148, -0.96969696969
+ribgraph_mean_ribbon_speedresponse_dist_cdaytaphab102.png, 0.000625000978493, -0.329615761072
+ribgraph_mean_ribbon_timeresponse_dpix_cdaytaphab1.png, 0.321220037562, -9.2902805692
+smallmovesribgraph_mean_ribbon_speedresponse_dist_cdaytaphab102.png, 0.00870508904746, -0.251309687128
+ribgraph_mean_ribbon_timeresponse_dpix_cdaytaphab102.png, -0.578097570449, 2.8461538462
+ribgraph_mean_ribbon_freqresponse_dpix_cdaytaphab1.png, -0.0769969121283, 0.126385442515
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytaphab102.png, 1.0, nan
+bigmovesribgraph_mean_ribbon_peakdpix_cdaytaphab102.png, 1.0, nan
+bigmovesribgraph_mean_ribbon_polygonarea_dist_cdaytaphab102.png, 1.0, nan
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_cdaytaphab102.png, 0.0337091146489, 17.6346153846
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_cdaytaphab102.png, 0.892901582006, -0.002360018496
+ribgraph_mean_ribbon_peakdpix_cdaytaphab102.png, 0.023919348248, -84.9505494507
+ribgraph_mean_ribbon_slowfullboutdatamax_dist_cdaytaphab1.png, 0.956939924501, -0.25360924165
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_cdaytaphab102.png, -0.0991703003074, 23.2211538462
+ribgraph_mean_ribbon_peakspeed_cdaytaphab102.png, 0.000595405258063, -1.0718629918
+bigmovesribgraph_mean_ribbon_displacement_dist_cdaytaphab102.png, 1.0, nan
+smallmovesribgraph_mean_ribbon_displacement_dist_cdaytaphab102.png, -0.281782872199, 2.89981658178
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dist_cdaytaphab1.png, 0.675385878078, 2.4583333333
+ribgraph_mean_ribbon_latencyresponse_dpix_cdaytaphab1.png, -0.412018324507, -34.789951232
+ribgraph_mean_ribbon_fullboutdatamax_dist_cdaytaphab102.png, 0.00128730851911, -2.97053648082
+ribgraph_mean_ribbon_slowfullboutdatamax_dpix_cdaytaphab1.png, -0.681613648544, 0.35369967361
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytaphab102.png, 0.650612963933, -53.980769231
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_cdaytaphab102.png, 1.0, nan
+ribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytaphab1.png, 0.504035866453, -3.3106111223
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_cdaytaphab102.png, 1.0, nan
+ribgraph_mean_ribbon_velocityresponse_dist_cdaytaphab102.png, 0.0720569631579, -0.190951059167
+bigmovesribgraph_mean_ribbon_peakspeed_cdaytaphab102.png, 1.0, nan
+smallmovesribgraph_mean_ribbon_peakspeed_cdaytaphab102.png, 0.00881250444495, -0.760060078059
+ribgraph_mean_ribbon_latencyresponse_dpix_cdaytaphab102.png, 0.00935094770918, 17.1346153846
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_cdaytaphab102.png, 0.0175264522816, 21.3846153846
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytaphab102.png, 0.381509519984, -3.01957461777
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytaphab102.png, 1.0, nan
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_cdaytaphab102.png, -0.928619010729, 0.0008547008547
+bigmovesribgraph_mean_ribbon_speedresponse_dist_cdaytaphab102.png, 1.0, nan
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_cdaytaphab102.png, 0.44968518976, 9.7307692308
+ribgraph_mean_ribbon_cumdpixresponse_dpix_cdaytaphab102.png, 0.104273587553, -434.945054945
+ribgraph_mean_ribbon_freqresponse_dpix_cdaytaphab102.png, 0.0768244910669, -0.110256410256
+ribgraph_mean_ribbon_totaldistanceresponse_dist_cdaytaphab102.png, 0.0225276459181, -15.8151934697
+ribgraph_mean_ribbon_displacement_dist_cdaytaphab102.png, 0.427936939389, -9.72470924955
+ribgraph_mean_ribbon_polygonarea_dist_cdaytaphab102.png, 0.0699239870129, -27.3863636364
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dpix_cdaytaphab1.png, -0.0203281379769, -21.6458333333
+ribgraph_mean_ribbon_fullboutdatamax_dpix_cdaytaphab102.png, 0.023919348248, -83.1868131864
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_cdaytaphab102.png, 0.00105983672291, -0.111111111111
+Lowest Dark flash block 3 start: -0.0220198172442
+Average Dark flash block 3 start: -0.367872889331
+Lowaverage (reg if not >2, <0.05) Dark flash block 3 start: -0.367872889331
+ribgraph_mean_ribbon_speedresponse_dist_cdarkflash103.png, -0.649204096696, 0.009301637674
+ribgraph_mean_ribbon_polygonarea_dist_cdarkflash103.png, -0.0738955846097, 9.6943833089
+ribgraph_mean_ribbon_fullboutdatamax_dpix_cdarkflash103.png, -0.931249719206, 0.9475176609
+ribgraph_mean_ribbon_timeresponse_dpix_cdarkflash103.png, -0.0830464693152, 12.3248282967
+ribgraph_mean_ribbon_peakdpix_cdarkflash103.png, -0.124254942379, 9.552636055
+ribgraph_mean_ribbon_fullboutdatamax_dist_cdarkflash103.png, -0.296855079243, 0.14333497363
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_cdarkflash103.png, 0.268753058576, 61.586538462
+ribgraph_mean_ribbon_peakspeed_cdarkflash103.png, -0.604731389886, 0.176185058308
+ribgraph_mean_ribbon_displacement_dist_cdarkflash103.png, -0.140373866539, 3.3820331316
+ribgraph_mean_ribbon_latencyresponse_dpix_cdarkflash103.png, 0.480293931505, 12.518536325
+ribgraph_mean_ribbon_freqresponse_dpix_cdarkflash103.png, -0.217286222074, 0.087307692308
+ribgraph_mean_ribbon_velocityresponse_dist_cdarkflash103.png, -0.604731389886, 0.013423831763
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_cdarkflash103.png, -0.925009552049, -15.740384615
+ribgraph_mean_ribbon_totaldistanceresponse_dist_cdarkflash103.png, -0.0963882207556, 4.3572045375
+ribgraph_mean_ribbon_cumdpixresponse_dpix_cdarkflash103.png, -0.0220198172442, 303.60105421
+Lowest Day tap habituation 1: 0.00140993380203
+Average Day tap habituation 1: 0.381334856587
+Lowaverage (reg if not >2, <0.05) Day tap habituation 1: 0.0277966613213
+ribgraph_mean_ribbon_peakdpix_adaytaphab102.png, 0.383406654773, -19.175
+ribgraph_mean_ribbon_displacement_dist_adaytaphab102.png, 0.196705602459, -9.4158699649
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dpix_adaytaphab1.png, 0.583714505937, 2.6594746716
+ribgraph_mean_ribbon_speedresponse_dist_adaytaphab102.png, 0.106583169575, -0.131191396961
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_adaytaphab102.png, -0.0321245712077, 622.54761904
+ribgraph_mean_ribbon_peakspeed_adaytaphab102.png, 0.128813948746, -0.44661089753
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_adaytaphab102.png, 0.379836761727, 24.2666666667
+bigmovesribgraph_mean_ribbon_peakspeed_adaytaphab102.png, -0.43012821295, 0.16694371474
+smallmovesribgraph_mean_ribbon_peakspeed_adaytaphab102.png, 0.353796686903, -0.014581589536
+ribgraph_mean_ribbon_slowfullboutdatamax_dist_adaytaphab1.png, 0.749303436248, -4.32849496901
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dist_adaytaphab1.png, 0.21140617883, 8.2279549719
+ribgraph_mean_ribbon_totaldistanceresponse_dist_adaytaphab1.png, -0.641573339111, 0.2225702223
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_adaytaphab102.png, 0.00140993380203, -0.183760683761
+ribgraph_mean_ribbon_freqresponse_dpix_adaytaphab1.png, -0.247453423529, 0.091687344913
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_adaytaphab102.png, 0.685192156149, -0.0119658119658
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_adaytaphab102.png, 0.794002680193, -16.886363636
+ribgraph_mean_ribbon_timeresponse_dpix_adaytaphab102.png, 0.605309106723, -9.2895833333
+ribgraph_mean_ribbon_cumdpixresponse_dpix_adaytaphab1.png, 0.532974280839, -4.531785642
+ribgraph_mean_ribbon_cumdpixresponse_dpix_adaytaphab102.png, 0.89727896126, -117.71666667
+bigmovesribgraph_mean_ribbon_speedresponse_dist_adaytaphab102.png, -0.253097908947, 0.072443561184
+bigmovesribgraph_mean_ribbon_polygonarea_dist_adaytaphab102.png, 0.935283063107, -33.928571429
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_adaytaphab102.png, 0.77729741079, -0.003221699968
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_adaytaphab102.png, 0.0646429184676, 17.0227272727
+ribgraph_mean_ribbon_timeresponse_dpix_adaytaphab1.png, 0.103614706222, -22.3072612645
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_adaytaphab102.png, -0.532459476797, -0.5
+ribgraph_mean_ribbon_slowfullboutdatamax_dpix_adaytaphab1.png, 0.0399708289549, -7.99686565336
+bigmovesribgraph_mean_ribbon_displacement_dist_adaytaphab102.png, -0.15312745102, 10.2067340581
+bigmovesribgraph_mean_ribbon_peakdpix_adaytaphab102.png, -0.0632908322333, 45.214285714
+ribgraph_mean_ribbon_fullboutdatamax_dist_adaytaphab102.png, 0.244577629634, -1.2334977283
+ribgraph_mean_ribbon_polygonarea_dist_adaytaphab102.png, 0.192090561205, -57.921474359
+ribgraph_mean_ribbon_fullboutdatamax_dpix_adaytaphab102.png, 0.539528885211, -10.579166667
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_adaytaphab102.png, -0.15312745102, 0.122952762814
+smallmovesribgraph_mean_ribbon_displacement_dist_adaytaphab102.png, 0.695039812495, -0.5303042651
+ribgraph_mean_ribbon_displacement_dist_adaytaphab1.png, 0.493178381863, -3.44687452988
+smallmovesribgraph_mean_ribbon_peakdpix_adaytaphab102.png, 0.191694602052, -33.090909091
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_adaytaphab102.png, -0.830094265465, 3.6666666667
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_adaytaphab102.png, 0.743682997006, -5.0113636364
+smallmovesribgraph_mean_ribbon_polygonarea_dist_adaytaphab102.png, -0.87703495465, 3.7777777778
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_adaytaphab102.png, 0.0288736606557, 17.9666666667
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_adaytaphab102.png, -0.253097908947, 9.8485683714
+smallmovesribgraph_mean_ribbon_speedresponse_dist_adaytaphab102.png, 0.117185087198, -0.046001742848
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_adaytaphab102.png, 0.601508134441, -2.2144527436
+ribgraph_mean_ribbon_velocityresponse_dist_adaytaphab102.png, 0.339308181934, -0.086519040433
+ribgraph_mean_ribbon_totaldistanceresponse_dist_adaytaphab102.png, 0.1752442454, -10.448118941
+ribgraph_mean_ribbon_freqresponse_dpix_adaytaphab102.png, 0.0366043119861, -0.195726495726
+ribgraph_mean_ribbon_latencyresponse_dpix_adaytaphab1.png, 0.454083647867, 46.97481778
+ribgraph_mean_ribbon_latencyresponse_dpix_adaytaphab102.png, 0.0729853330569, 15.6041666667
+Lowest Frequency of movement day2morning: -0.001
+Average Frequency of movement day2morning: -0.00533333333333
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2morning: -0.00533333333333
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2morning.png, -0.001, -8.168
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2morning.png, -0.007, 36.824
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2morning.png, -0.001, 14.064
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2morning.png, -0.017, -29.1
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2morning.png, -0.008, -2.038
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2morning.png, -0.023, -3.273
+ribgraph_mean_ribbon_dpixsecper_min_day2morning.png, -0.001, 21.225
+ribgraph_mean_ribbon_distsecper_min_day2morning.png, -0.001, 13.987
+ribgraph_mean_ribbon_dpixminper_10min_day2morning.png, -0.001, 2.025
+ribgraph_mean_ribbonbout_numberofbouts_min_day2morning.png, -0.001, 5.132
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2morning.png, -0.002, 97.149
+ribgraph_mean_ribbon_distminper_10min_day2morning.png, -0.001, 2.33
+Lowest Location in well day1taps: -0.001
+Average Location in well day1taps: -0.05775
+Lowaverage (reg if not >3, <0.05) Location in well day1taps: -0.0085
+ribgraph_mean_ribbonbout_centerfrac_10min_day1taps.png, -0.001, 0.127
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day1taps.png, -0.315, 0.011
+ribgraph_mean_ribbonbout_averhofrac_10min_day1taps.png, -0.002, -0.063
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day1taps.png, -0.096, -0.038
+ribgraph_mean_ribbonbout_averhofrac_min_day1taps.png, -0.001, -0.068
+ribgraph_mean_ribbonbout_centerfrac_min_day1taps.png, -0.001, 0.125
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day1taps.png, -0.011, 0.04
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day1taps.png, -0.035, -0.048
+Lowest Dark flash block 2 start: -1.20294458512e-05
+Average Dark flash block 2 start: -0.29277763612
+Lowaverage (reg if not >2, <0.05) Dark flash block 2 start: -0.000382308317194
+ribgraph_mean_ribbon_timeresponse_dpix_bdarkflash103.png, -0.000125082366902, 24.9820299141
+ribgraph_mean_ribbon_latencyresponse_dpix_bdarkflash103.png, 0.153022919661, 52.662352208
+ribgraph_mean_ribbon_speedresponse_dist_bdarkflash103.png, -0.299336148656, 0.010686725493
+ribgraph_mean_ribbon_velocityresponse_dist_bdarkflash103.png, -0.292387070977, 0.00888232679
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_bdarkflash103.png, 0.701227923603, 53.846153846
+ribgraph_mean_ribbon_freqresponse_dpix_bdarkflash103.png, -0.963594303133, 0.031153846154
+ribgraph_mean_ribbon_polygonarea_dist_bdarkflash103.png, -0.00162543521045, 17.0290789072
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_bdarkflash103.png, 0.399524432833, 81.523076923
+ribgraph_mean_ribbon_peakspeed_bdarkflash103.png, -0.403821586082, 0.082534924024
+ribgraph_mean_ribbon_displacement_dist_bdarkflash103.png, -1.58244536574e-05, 6.632884881
+ribgraph_mean_ribbon_peakdpix_bdarkflash103.png, -0.092045235197, 9.529589439
+ribgraph_mean_ribbon_fullboutdatamax_dist_bdarkflash103.png, 0.542394675878, -0.14806567748
+ribgraph_mean_ribbon_totaldistanceresponse_dist_bdarkflash103.png, -1.20294458512e-05, 8.9117466977
+ribgraph_mean_ribbon_fullboutdatamax_dpix_bdarkflash103.png, 0.542398704192, -11.3295344933
+ribgraph_mean_ribbon_cumdpixresponse_dpix_bdarkflash103.png, -0.000133170109111, 447.419119358
+Lowest Night early prepulse tap: 0.00114618653728
+Average Night early prepulse tap: 0.285683925806
+Lowaverage (reg if not >2, <0.05) Night early prepulse tap: 0.0214265922095
+ribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition100b.png, 0.0747525670674, -36.404166666
+ribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition100b.png, -0.15956109316, 29.5361111111
+smallmovesribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition100b.png, 0.223189783842, -22.2307692308
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition100b.png, -0.0742034113298, 11.6342353026
+ribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition100b.png, 0.0122172214543, -0.138313862101
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortnightprepulseinhibition100b.png, 0.0601648123915, -35.7791666671
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition100b.png, 0.867322380636, -1.4921017203
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortnightprepulseinhibition100b.png, 0.0520440556585, -1.41395614734
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition100b.png, -0.255623107546, 388.97115385
+smallmovesribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition100b.png, 0.314802530301, -0.044111676801
+ribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition100b.png, 0.0160602104676, 19.8625
+ribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition100b.png, 0.0674756716435, -0.422847925045
+bigmovesribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition100b.png, -0.0273095485244, 43.177083333
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition100b.png, -0.430557887645, 16.5885416667
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition100b.png, -0.5028573573, 5.8112356044
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition100b.png, -0.200658025119, 34.5793269231
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortnightprepulseinhibition100b.png, 0.0064303431495, 43.1083333333
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition100b.png, 0.133046447366, -0.091184796908
+ribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition100b.png, 0.0629132153549, -0.0810256410253
+ribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition100b.png, 0.0367822613266, -0.13066602298
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition100b.png, -0.915387101077, 0.0016666666667
+ribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition100b.png, 0.435486666357, -3.983400008
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition100b.png, 0.00114618653728, -0.0826923076923
+ribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition100b.png, -0.450738469476, 10.4105235043
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition100b.png, -0.916359140273, 0.048131193655
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition100b.png, -0.0274231543814, 44.6666666667
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition100b.png, -0.138850434836, 21.3125
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition100b.png, 0.778228236427, 0.21875
+bigmovesribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition100b.png, -0.140309985747, 8.3386130603
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition100b.png, 0.903057658326, -0.045009398206
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition100b.png, 0.117215112347, 16.0697115385
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition100b.png, -0.674424072235, 0.095211240463
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition100b.png, -0.0928919408837, 531.67708333
+bigmovesribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition100b.png, -0.0458395301652, 0.30550298468
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortnightprepulseinhibition100b.png, 0.0196308738788, 21.2916666667
+smallmovesribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition100b.png, -0.489870485894, 3.89530159236
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition100b.png, -0.845474274688, 95.35694444
+Lowest Day all weak tap: 0.00197480476096
+Average Day all weak tap: 0.252158327094
+Lowaverage (reg if not >2, <0.05) Day all weak tap: 0.0189468002132
+ribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition101.png, 0.337983307762, -0.034292993218
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition101.png, 0.221493343815, -0.0129198966408
+ribgraph_mean_ribbon_peakdpix_dayprepulseinhibition101.png, 0.505509580627, -5.979726757
+bigmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition100a.png, -0.075306252752, 6.1370314942
+smallmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition100a.png, 0.718566438231, -0.7402341871
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_dayprepulseinhibition101.png, 0.0208494074533, 15.53
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition100a.png, -0.0212176796522, 10.1721926092
+smallmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition101.png, 0.102471249018, -0.079156311175
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition101.png, -0.758964604366, -2.4012121212
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition100a.png, 0.418830379486, -0.052459549849
+bigmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition101.png, -0.120554716264, 21.661287879
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition101.png, -0.00279169498034, 15.8062549799
+smallmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition101.png, 0.986448930801, -5.6663504273
+bigmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition100a.png, 0.967756209451, -0.040072011352
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition101.png, -0.818104334886, 0.01618534361
+bigmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition101.png, -0.13115730207, 0.25097035888
+ribgraph_mean_ribbon_peakspeed_dayprepulseinhibition101.png, 0.188241783511, -0.120070840481
+bigmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition101.png, -0.604832560403, 0.012334909992
+bigmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition101.png, -0.00578357023995, 12.7444784239
+bigmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition101.png, -0.0287839658757, 51.3554166666
+ribgraph_mean_ribbon_fullboutdatamax_dist_dayprepulseinhibition100a.png, 0.0059680533713, -1.37204770092
+smallmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition100a.png, 0.189480405862, -0.0264508698
+ribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition101.png, -0.158607754836, 14.6718279082
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition100a.png, -0.0431265206595, 18.8958333333
+smallmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition101.png, -0.0617262423351, 2.33557354779
+ribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition100a.png, 0.216312372614, -2.184607349
+ribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition101.png, -0.3062523371, 2.1800505413
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition101.png, -0.35906697866, 0.00491508274
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition100a.png, -0.24422143636, 7.7635732323
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition101.png, 0.0731053288933, 8.1155001942
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition100a.png, 0.410735027575, 4.1148463804
+smallmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition100a.png, 0.171384585082, -0.156832851093
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_dayprepulseinhibition101.png, 0.088008435867, 11.56
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition101.png, -0.00574858418189, 30.7796717172
+ribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition100a.png, 0.0058136928462, -0.11565277403
+ribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition100a.png, -0.194598225605, 7.5860692878
+ribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition100a.png, 0.605096392714, -0.0832918852
+ribgraph_mean_ribbon_peakspeed_dayprepulseinhibition100a.png, 0.0024055575091, -0.386502711154
+ribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition101.png, 0.118987847859, -0.051637325655
+ribgraph_mean_ribbon_fullboutdatamax_dpix_dayprepulseinhibition101.png, 0.558772797409, -12.6647857143
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition101.png, -0.00967262549412, 621.5589899
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition100a.png, -0.00277589918173, 576.46626984
+ribgraph_mean_ribbon_fullboutdatamax_dpix_dayprepulseinhibition100a.png, 0.216306588808, -14.1383730216
+bigmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition100a.png, -0.134715859249, 48.9313822751
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition100a.png, 0.0506932872663, -0.0194383394383
+ribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition101.png, -0.167464596312, 168.253256132
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition101.png, -0.026053643697, 0.019320214669
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition100a.png, -0.283778047946, 131.566253307
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_dayprepulseinhibition100a.png, 0.0196140026283, 13.8021978022
+smallmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition101.png, 0.089429359029, -0.026520942509
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition101.png, -0.35906697866, 105.259911422
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition100a.png, -0.354747702004, -2.9178240741
+ribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition100a.png, 0.963838412284, -0.0048962148962
+ribgraph_mean_ribbon_fullboutdatamax_dist_dayprepulseinhibition101.png, 0.0368577242309, -0.41230173467
+smallmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition100a.png, -0.129664896576, 2.38365091385
+ribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition100a.png, -0.574118066756, 81.937062937
+smallmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition100a.png, -0.112906420544, 5.4961193783
+ribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition101.png, -0.389393476332, 2.3406029623
+ribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition100a.png, 0.236114154628, 4.931462585
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition100a.png, -0.345933067334, 0.014625995082
+ribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition100a.png, 0.134711876866, -2.8002916964
+ribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition101.png, -0.104344946116, 10.3729080087
+ribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition100a.png, 0.0327129631092, -0.092533341484
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition101.png, -0.424611154411, 6.2898026418
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition100a.png, -0.0447784644194, 0.0145421245421
+bigmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition100a.png, -0.0290490221619, 34.041335979
+ribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition101.png, 0.00197480476096, 10.5757252886
+smallmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition101.png, -0.0329581278118, 8.8521704064
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition101.png, -0.518669357813, 1.3968155345
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_dayprepulseinhibition100a.png, 0.0603551321724, 20.0
+ribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition101.png, -0.218745745383, 0.0064003180282
+bigmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition100a.png, -0.466742556018, 0.10187835223
+ribgraph_mean_ribbon_peakdpix_dayprepulseinhibition100a.png, 0.36394999464, -9.5392011619
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition100a.png, -0.86790136133, 0.325477886
+Lowest Location in well day1day: -0.001
+Average Location in well day1day: -0.003625
+Lowaverage (reg if not >3, <0.05) Location in well day1day: -0.003625
+ribgraph_mean_ribbonbout_centerfrac_10min_day1day.png, -0.001, 0.14
+ribgraph_mean_ribbonbout_averhofrac_min_day1day.png, -0.001, -0.08
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day1day.png, -0.003, -0.074
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day1day.png, -0.007, -0.063
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day1day.png, -0.01, 0.058
+ribgraph_mean_ribbonbout_centerfrac_min_day1day.png, -0.001, 0.157
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day1day.png, -0.002, 0.046
+ribgraph_mean_ribbonbout_averhofrac_10min_day1day.png, -0.004, -0.067
+Lowest Features of movement combo: -1.6938072519e-05
+Average Features of movement combo: -0.217946061146
+Lowaverage (reg if not >3, <0.05) Features of movement combo: -0.00158029850264
+ribgraph_mean_ribbonbout_aveboutdist_min_combo.png, 0.00426495111024, -1.9389082671
+ribgraph_mean_ribbonbout_aveboutspeed_10min_combo.png, 0.000483726549266, -0.073994704299
+ribgraph_mean_ribbonbout_aveboutdisp_min_combo.png, 0.786586720184, -0.14578668537
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_combo.png, -8.64380564815e-05, 13.5749597738
+ribgraph_mean_ribbonbout_aveboutdist_10min_combo.png, 0.0015847540164, -2.3833418323
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_combo.png, -1.6938072519e-05, 14.3447603372
+ribgraph_mean_ribbonbout_dpixavebouttime_min_combo.png, -0.101106073783, 2.819266604
+ribgraph_mean_ribbonbout_aveboutvel_min_combo.png, 0.35886672019, -0.004900162642
+ribgraph_mean_ribbonbout_aveboutvel_10min_combo.png, 0.651814689335, -0.001710604522
+ribgraph_mean_ribbonbout_avebouttime_min_combo.png, -0.265680449954, 0.7486002905
+ribgraph_mean_ribbonbout_avebouttime_10min_combo.png, -0.0560996861286, 1.5976198808
+ribgraph_mean_ribbonbout_aveboutspeed_min_combo.png, 0.00304498321091, -0.053299922559
+ribgraph_mean_ribbonbout_aveboutdisp_10min_combo.png, -0.763545336538, 0.20561212666
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_combo.png, -0.0580633889089, 3.401705928
+Lowest Frequency of movement day2night2: 0.036
+Average Frequency of movement day2night2: 0.46525
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2night2: 0.46525
+ribgraph_mean_ribbon_distsecper_min_day2night2.png, -0.813, 0.045
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2night2.png, 0.036, 1.876
+ribgraph_mean_ribbonbout_numberofbouts_min_day2night2.png, -0.464, 0.055
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2night2.png, 0.929, 0.53
+ribgraph_mean_ribbon_dpixminper_10min_day2night2.png, -0.078, 1.219
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2night2.png, 0.553, 12.228
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2night2.png, -0.393, -2.065
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2night2.png, 0.652, -0.196
+ribgraph_mean_ribbon_dpixsecper_min_day2night2.png, 0.345, -0.489
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2night2.png, -0.577, 0.424
+ribgraph_mean_ribbon_distminper_10min_day2night2.png, -0.094, 1.035
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2night2.png, 0.649, -2.054
+Lowest Features of movement day1taps: -0.003
+Average Features of movement day1taps: -0.312357142857
+Lowaverage (reg if not >3, <0.05) Features of movement day1taps: -0.0206666666667
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day1taps.png, -0.013, 8.21
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day1taps.png, 0.125, -4.999
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day1taps.png, 0.871, -0.09
+ribgraph_mean_ribbonbout_aveboutvel_10min_day1taps.png, -0.956, 0.001
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day1taps.png, -0.003, 10.297
+ribgraph_mean_ribbonbout_aveboutdisp_min_day1taps.png, 0.471, -0.343
+ribgraph_mean_ribbonbout_avebouttime_min_day1taps.png, 0.626, -0.569
+ribgraph_mean_ribbonbout_aveboutspeed_min_day1taps.png, 0.031, -0.065
+ribgraph_mean_ribbonbout_aveboutdist_min_day1taps.png, 0.021, -2.759
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day1taps.png, 0.153, -3.827
+ribgraph_mean_ribbonbout_aveboutvel_min_day1taps.png, 0.607, -0.004
+ribgraph_mean_ribbonbout_aveboutdist_10min_day1taps.png, 0.018, -3.091
+ribgraph_mean_ribbonbout_avebouttime_10min_day1taps.png, 0.44, -0.806
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day1taps.png, 0.038, -0.067
+Lowest Frequency of movement day1mornstim: -0.001
+Average Frequency of movement day1mornstim: -0.1415
+Lowaverage (reg if not >3, <0.05) Frequency of movement day1mornstim: -0.01
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day1mornstim.png, -0.627, -0.392
+ribgraph_mean_ribbon_dpixsecper_min_day1mornstim.png, -0.002, 11.223
+ribgraph_mean_ribbon_distsecper_min_day1mornstim.png, -0.013, 5.676
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day1mornstim.png, -0.016, 65.696
+ribgraph_mean_ribbonbout_numberofbouts_min_day1mornstim.png, -0.076, 1.617
+ribgraph_mean_ribbon_distminper_10min_day1mornstim.png, -0.001, 4.162
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day1mornstim.png, -0.015, -18.454
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day1mornstim.png, -0.011, 6.461
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day1mornstim.png, -0.803, -3.435
+ribgraph_mean_ribbonbout_numberofbouts_10min_day1mornstim.png, -0.112, 15.118
+ribgraph_mean_ribbon_dpixminper_10min_day1mornstim.png, -0.001, 3.058
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day1mornstim.png, -0.021, -3.099
+Lowest Frequency of movement day2night1: 0.001
+Average Frequency of movement day2night1: 0.329583333333
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2night1: 0.027
+ribgraph_mean_ribbon_distminper_10min_day2night1.png, -0.088, 1.201
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2night1.png, -0.185, 1.234
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2night1.png, 0.696, 6.813
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2night1.png, 0.029, -0.995
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2night1.png, 0.127, -7.479
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2night1.png, -0.653, -2.692
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2night1.png, 0.001, 3.584
+ribgraph_mean_ribbon_distsecper_min_day2night1.png, 0.976, -0.007
+ribgraph_mean_ribbon_dpixminper_10min_day2night1.png, -0.047, 1.419
+ribgraph_mean_ribbonbout_numberofbouts_min_day2night1.png, -0.292, 0.096
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2night1.png, 0.83, 0.48
+ribgraph_mean_ribbon_dpixsecper_min_day2night1.png, 0.031, -1.204
+Lowest Frequency of movement day1morntrans: -0.00106358937408
+Average Frequency of movement day1morntrans: -0.2885942413
+Lowaverage (reg if not >3, <0.05) Frequency of movement day1morntrans: -0.00346915314311
+ribgraph_mean_ribbon_distminper_10min_day1morntrans.png, -0.00132117158221, 3.44487179487
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day1morntrans.png, 0.419, 0.981
+ribgraph_mean_ribbon_distsecper_min_day1morntrans.png, -0.266, 2.543
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day1morntrans.png, 0.679743956077, 0.509567306
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day1morntrans.png, -0.803510326955, -3.212843338
+ribgraph_mean_ribbonbout_numberofbouts_10min_day1morntrans.png, -0.00106358937408, 28.7269230769
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day1morntrans.png, 0.141, 4.243
+ribgraph_mean_ribbon_dpixminper_10min_day1morntrans.png, -0.00138673188545, 2.88333333333
+ribgraph_mean_ribbonbout_numberofbouts_min_day1morntrans.png, -0.604, 0.531
+ribgraph_mean_ribbon_dpixsecper_min_day1morntrans.png, -0.203, 4.637
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day1morntrans.png, -0.333, 2.417
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day1morntrans.png, -0.0101051197307, 80.788461538
+Lowest Night early strong tap: 8.15094048781e-05
+Average Night early strong tap: 0.214927141158
+Lowaverage (reg if not >2, <0.05) Night early strong tap: 0.0172646165512
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nighttappre102.png, 0.065571929693, 20.3720930233
+bigmovesribgraph_mean_ribbon_displacement_dist_nighttappre102.png, -0.0405241282865, 11.7411245678
+bigmovesribgraph_mean_ribbon_peakspeed_nighttappre102.png, -0.000329815438247, 0.35811815886
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nighttappre102.png, -0.0421095927577, 24.9656177156
+bigmovesribgraph_mean_ribbon_peakdpix_nighttappre102.png, -0.0109727265169, 31.776307026
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nighttappre102.png, -0.769565718528, 0.005994704702
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nighttappre102.png, 8.15094048781e-05, -0.151923076923
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nighttappre102.png, -0.0316087904054, -1.9627039627
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nighttappre102.png, 0.0123030382315, -0.079238252635
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nighttappre102.png, -0.838411890134, 1.9388850296
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nighttappre102.png, 0.110840146884, -33.755112587
+ribgraph_mean_ribbon_fullboutdatamax_dist_nighttappre102.png, 0.0387031822659, -1.14279790148
+ribgraph_mean_ribbon_speedresponse_dist_nighttappre102.png, 0.00542252553377, -0.111399529457
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nighttappre102.png, 0.0952333755049, 18.7291666667
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nighttappre102.png, -0.00990677301136, 64.9266025641
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nighttappre102.png, -0.0033248333571, 17.7592678824
+ribgraph_mean_ribbon_displacement_dist_nighttappre102.png, -0.992604130071, 2.0001871254
+ribgraph_mean_ribbon_freqresponse_dpix_nighttappre102.png, 0.217217064258, -0.071025641025
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nighttappre102.png, -0.480344810695, 0.5403337189
+ribgraph_mean_ribbon_polygonarea_dist_nighttappre102.png, -0.595155910908, 0.1611062718
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nighttappre102.png, -0.133062187428, 0.072705428413
+ribgraph_mean_ribbon_peakdpix_nighttappre102.png, 0.0611380331892, -31.25460502
+ribgraph_mean_ribbon_timeresponse_dpix_nighttappre102.png, -0.000321300956537, 32.6217700261
+ribgraph_mean_ribbon_velocityresponse_dist_nighttappre102.png, 0.0105174621158, -0.077657021158
+smallmovesribgraph_mean_ribbon_peakdpix_nighttappre102.png, 0.187394936577, -33.060978836
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nighttappre102.png, -0.263349388802, 182.34728836
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nighttappre102.png, -0.608586933593, 0.037660260596
+ribgraph_mean_ribbon_latencyresponse_dpix_nighttappre102.png, 0.0351228177522, 15.0299418605
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nighttappre102.png, -0.00658331161554, 31.348148148
+smallmovesribgraph_mean_ribbon_peakspeed_nighttappre102.png, 0.115631804293, -0.392687615182
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nighttappre102.png, -0.282266225136, 239.34638243
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nighttappre102.png, 0.728324496237, 25.226744186
+ribgraph_mean_ribbon_peakspeed_nighttappre102.png, 0.0180738939187, -0.38409627144
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nighttappre102.png, -0.00189056277315, 837.18489844
+smallmovesribgraph_mean_ribbon_displacement_dist_nighttappre102.png, -0.0429668335796, 4.7599316571
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nighttappre102.png, -0.397502246201, 0.080897435898
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nighttappre102.png, 0.699339896801, -33.6698082011
+Lowest Features of movement day2darkflashes: 0.002
+Average Features of movement day2darkflashes: 0.2915
+Lowaverage (reg if not >3, <0.05) Features of movement day2darkflashes: 0.004
+ribgraph_mean_ribbonbout_aveboutvel_min_day2darkflashes.png, 0.505, -0.004
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2darkflashes.png, 0.629, -0.167
+ribgraph_mean_ribbonbout_avebouttime_10min_day2darkflashes.png, -0.747, 0.232
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2darkflashes.png, 0.293, -4.327
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2darkflashes.png, -0.139, 5.452
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2darkflashes.png, 0.055, -7.994
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2darkflashes.png, 0.368, -0.006
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2darkflashes.png, 0.002, -0.077
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2darkflashes.png, 0.446, -0.276
+ribgraph_mean_ribbonbout_aveboutdist_min_day2darkflashes.png, 0.007, -2.343
+ribgraph_mean_ribbonbout_avebouttime_min_day2darkflashes.png, -0.67, 0.295
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2darkflashes.png, -0.213, 4.703
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2darkflashes.png, 0.005, -0.062
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2darkflashes.png, 0.002, -2.974
+Lowest Night light flash: -0.0381852277979
+Average Night light flash: -0.42755490268
+Lowaverage (reg if not >2, <0.05) Night light flash: -0.42755490268
+ribgraph_mean_ribbon_timeresponse_dpix_nightlightflash104.png, -0.29991009776, 19.6815200617
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nightlightflash104.png, -0.0607411869559, 22.7519290124
+ribgraph_mean_ribbon_speedresponse_dist_nightlightflash104.png, -0.374396434478, 0.033404249001
+ribgraph_mean_ribbon_fullboutdatamax_dist_nightlightflash104.png, -0.239677868092, 0.20414880413
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nightlightflash104.png, -0.531858090301, -55.583333333
+ribgraph_mean_ribbon_freqresponse_dpix_nightlightflash104.png, -0.27274750812, 0.0215384615385
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nightlightflash104.png, 0.598609548894, -0.4169660191
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nightlightflash104.png, -0.0812337507419, 376.876962081
+ribgraph_mean_ribbon_polygonarea_dist_nightlightflash104.png, 0.739693279423, -25.8737012987
+ribgraph_mean_ribbon_latencyresponse_dpix_nightlightflash104.png, -0.223506604528, -82.361805555
+ribgraph_mean_ribbon_velocityresponse_dist_nightlightflash104.png, -0.921379263459, 0.009674670245
+ribgraph_mean_ribbon_peakspeed_nightlightflash104.png, 0.549587282578, -0.090759755559
+ribgraph_mean_ribbon_displacement_dist_nightlightflash104.png, -0.521164532664, 3.29386456647
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nightlightflash104.png, 0.960632864405, 30.625
+ribgraph_mean_ribbon_peakdpix_nightlightflash104.png, -0.0381852277979, 27.89130291
+Lowest Night early weak tap: -0.00570354661155
+Average Night early weak tap: -0.438297381481
+Lowaverage (reg if not >2, <0.05) Night early weak tap: -0.0239297826606
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition101.png, -0.0612226390357, 442.38978633
+ribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition101.png, 0.620981382628, -0.045408308917
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortnightprepulseinhibition101.png, -0.971670400095, 0.45509356596
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition101.png, -0.193930852282, -4.9583333333
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortnightprepulseinhibition101.png, -0.97182027906, 13.287649573
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition100a.png, -0.349045810971, 0.024665230145
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition101.png, 0.878741889038, -0.005526326286
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition100a.png, -0.152916368763, 490.31282051
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortnightprepulseinhibition100a.png, 0.785028205493, -0.03824374871
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition100a.png, -0.250171751159, 3.7889267112
+smallmovesribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition100a.png, -0.152916368763, 9.2140418026
+ribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition100a.png, -0.50524301516, 15.5601851853
+bigmovesribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition101.png, -0.00570354661155, 0.67713503043
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition101.png, -0.546493595407, 39.1691919196
+ribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition100a.png, 0.196949600955, -0.044358974359
+ribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition101.png, -0.584029588127, 15.954700854
+bigmovesribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition101.png, -0.0393518368613, 14.8759932449
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition101.png, -0.0114459196356, 19.9374217259
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition100a.png, -0.179712494879, 371.23333333
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition100a.png, 0.223768110147, -0.0237179487179
+bigmovesribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition100a.png, 0.881497452191, -0.6801785113
+ribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition101.png, -0.406516302217, 5.1433411926
+bigmovesribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition100a.png, -0.45605654025, 0.20434517463
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition101.png, 0.0957875452379, -0.0374493927126
+ribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition101.png, 0.532677470081, 4.0511752136
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition101.png, -0.492254614308, 11.5791666663
+ribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition100a.png, 0.348006167124, -8.2076719577
+smallmovesribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition101.png, -0.53444493804, 0.012855459501
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition100a.png, -0.881497452191, 0.01492929558
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition101.png, -0.1860936274, 408.57083333
+bigmovesribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition101.png, -0.019208251097, 51.458333333
+ribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition100a.png, 0.448629995577, -0.11184187912
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition101.png, 0.233142373928, -0.0267881241566
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition101.png, 0.85141196756, -0.000158144989
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition101.png, -0.690404284995, 12.0822368421
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition101.png, -0.647173114835, 0.009770004164
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition101.png, 0.925380373042, -0.002739011414
+bigmovesribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition100a.png, -0.101050255925, 47.366666667
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortnightprepulseinhibition101.png, 0.502261349267, 6.5961538462
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition100a.png, -0.960691052945, 0.01106709219
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition100a.png, 0.881497452191, -0.01486389637
+ribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition100a.png, -0.545027824264, 9.830687831
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition100a.png, -0.881497452191, 1.2447273254
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortnightprepulseinhibition100a.png, -0.431401416947, 18.343915344
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortnightprepulseinhibition100a.png, 0.0460642878843, 27.4444444444
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition101.png, -0.309108117147, 6.1535305003
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition100a.png, -0.102234844735, 408.22883598
+ribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition101.png, 0.646132639799, -0.042115181924
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition100a.png, -0.767328489826, 9.5230769231
+smallmovesribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition100a.png, -0.882453874134, 0.674358974
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition100a.png, 0.25276306521, 7.341025641
+ribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition101.png, 0.0941144971619, -0.0642375168695
+ribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition100a.png, -0.275973318014, 4.2302459002
+ribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition101.png, -0.124087048392, 18.7680769227
+ribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition101.png, -0.927259393602, 18.8033333334
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition100a.png, 1.0, -5.0166666667
+smallmovesribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition100a.png, 0.691853000348, -0.101700914976
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition100a.png, -0.183276894789, 8.0271446057
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition101.png, 0.229357707502, 10.2520833333
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition100a.png, 0.0509619369678, 9.3333333333
+ribgraph_mean_ribbon_speedresponse_dist_shortnightprepulseinhibition100a.png, 0.671814321235, -0.013847035784
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortnightprepulseinhibition100a.png, 0.0982031611135, 26.9444444444
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortnightprepulseinhibition101.png, -0.354741391959, -1.8307692308
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortnightprepulseinhibition101.png, -0.273571136207, 8.6460101366
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortnightprepulseinhibition101.png, -0.0245885664489, 737.44444445
+ribgraph_mean_ribbon_peakspeed_shortnightprepulseinhibition101.png, -0.817767435211, 0.1722866086
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition101.png, -0.0211460700858, 34.222222222
+smallmovesribgraph_mean_ribbon_displacement_dist_shortnightprepulseinhibition101.png, -0.333791528742, 4.987429157
+ribgraph_mean_ribbon_latencyresponse_dpix_shortnightprepulseinhibition100a.png, 0.192774623545, 12.1018518519
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortnightprepulseinhibition100a.png, 0.0990182628052, -41.7833333333
+ribgraph_mean_ribbon_velocityresponse_dist_shortnightprepulseinhibition100a.png, 0.951739294578, -0.013108369177
+smallmovesribgraph_mean_ribbon_peakdpix_shortnightprepulseinhibition101.png, -0.593055167634, 8.1500000003
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortnightprepulseinhibition100a.png, -0.348796991956, 27.4346153847
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortnightprepulseinhibition100a.png, 0.455276233718, -0.020641025641
+Lowest Frequency of movement day2darkflashes: -0.001
+Average Frequency of movement day2darkflashes: -0.02825
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2darkflashes: -0.002
+ribgraph_mean_ribbon_dpixsecper_min_day2darkflashes.png, -0.001, 10.134
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2darkflashes.png, -0.001, 7.19
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2darkflashes.png, -0.001, -14.616
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2darkflashes.png, -0.174, -0.759
+ribgraph_mean_ribbon_distsecper_min_day2darkflashes.png, -0.001, 7.664
+ribgraph_mean_ribbon_dpixminper_10min_day2darkflashes.png, -0.002, 1.398
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2darkflashes.png, -0.009, -22.905
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2darkflashes.png, -0.145, -1.291
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2darkflashes.png, -0.001, 23.215
+ribgraph_mean_ribbonbout_numberofbouts_min_day2darkflashes.png, -0.001, 2.647
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2darkflashes.png, -0.001, 66.003
+ribgraph_mean_ribbon_distminper_10min_day2darkflashes.png, -0.002, 1.721
+Lowest Dark flash block 4 end: -0.0174263744182
+Average Dark flash block 4 end: -0.415969948457
+Lowaverage (reg if not >2, <0.05) Dark flash block 4 end: -0.415969948457
+ribgraph_mean_ribbon_fullboutdatamax_dist_d2darkflash103.png, 0.402778823573, -0.16869082197
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_d2darkflash103.png, -0.503298770109, -86.310897436
+ribgraph_mean_ribbon_freqresponse_dpix_d2darkflash103.png, -0.4579471177, 0.080512820513
+ribgraph_mean_ribbon_velocityresponse_dist_d2darkflash103.png, 0.609532625958, -0.008341613336
+ribgraph_mean_ribbon_cumdpixresponse_dpix_d2darkflash103.png, -0.0174263744182, 279.223680429
+ribgraph_mean_ribbon_peakspeed_d2darkflash103.png, -0.867123125916, 0.007300216099
+ribgraph_mean_ribbon_displacement_dist_d2darkflash103.png, -0.492172086925, 0.9157385023
+ribgraph_mean_ribbon_speedresponse_dist_d2darkflash103.png, 0.298761401692, -0.016574724784
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_d2darkflash103.png, -0.383214324469, -95.100160256
+ribgraph_mean_ribbon_totaldistanceresponse_dist_d2darkflash103.png, -0.438388736203, 1.224722767
+ribgraph_mean_ribbon_latencyresponse_dpix_d2darkflash103.png, 0.894911832805, 13.939977297
+ribgraph_mean_ribbon_fullboutdatamax_dpix_d2darkflash103.png, 0.388113190215, -4.1588783324
+ribgraph_mean_ribbon_peakdpix_d2darkflash103.png, -0.121161711711, 12.4445894386
+ribgraph_mean_ribbon_timeresponse_dpix_d2darkflash103.png, -0.220921567849, 8.1561120014
+ribgraph_mean_ribbon_polygonarea_dist_d2darkflash103.png, -0.14379753731, 4.260773428
+Lowest Frequency of movement combo: -9.20025621231e-05
+Average Frequency of movement combo: -0.0533143912465
+Lowaverage (reg if not >3, <0.05) Frequency of movement combo: -0.000790086247946
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_combo.png, -0.0949989809644, -9.2219396906
+ribgraph_mean_ribbon_dpixsecper_min_combo.png, -0.000987474869244, 5.33150363918
+ribgraph_mean_ribbon_dpixminper_10min_combo.png, -0.00016954504049, 2.08929259146
+ribgraph_mean_ribbon_distsecper_min_combo.png, -9.20025621231e-05, 3.38772459939
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_combo.png, -0.00115833089295, 2.97037565672
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_combo.png, 0.479599548853, 0.52590681399
+ribgraph_mean_ribbon_distminper_10min_combo.png, -0.000257043450988, 2.27058376406
+ribgraph_mean_ribbonbout_numberofbouts_min_combo.png, -0.000125238314328, 1.01207598165
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_combo.png, -0.00304498321091, -10.5052043575
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_combo.png, -0.00115833089295, 29.8059136516
+ribgraph_mean_ribbonbout_numberofbouts_10min_combo.png, -0.000117826997532, 10.1463616094
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_combo.png, -0.0580633889089, -0.8410486759
+Lowest Location in well day2heatshock: -0.012
+Average Location in well day2heatshock: -0.51825
+Lowaverage (reg if not >3, <0.05) Location in well day2heatshock: -0.51825
+ribgraph_mean_ribbonbout_centerfrac_min_day2heatshock.png, -0.012, 0.047
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2heatshock.png, -0.924, -0.002
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2heatshock.png, -0.788, 0.002
+ribgraph_mean_ribbonbout_averhofrac_min_day2heatshock.png, -0.054, -0.032
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2heatshock.png, -0.407, 0.008
+ribgraph_mean_ribbonbout_averhofrac_10min_day2heatshock.png, -0.897, -0.003
+ribgraph_mean_ribbonbout_centerfrac_10min_day2heatshock.png, 0.945, -0.002
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2heatshock.png, -0.119, -0.028
+Lowest Dark flash block 4 start: -0.0250135061488
+Average Dark flash block 4 start: -0.362314776853
+Lowaverage (reg if not >2, <0.05) Dark flash block 4 start: -0.362314776853
+ribgraph_mean_ribbon_velocityresponse_dist_ddarkflash103.png, 0.8685853703, -0.018245650418
+ribgraph_mean_ribbon_latencyresponse_dpix_ddarkflash103.png, 0.0759105875693, 37.266826923
+ribgraph_mean_ribbon_fullboutdatamax_dist_ddarkflash103.png, 0.159588449058, -0.46984712975
+ribgraph_mean_ribbon_cumdpixresponse_dpix_ddarkflash103.png, -0.0379202169502, 250.31977818
+ribgraph_mean_ribbon_timeresponse_dpix_ddarkflash103.png, -0.140437922455, 11.0421901713
+ribgraph_mean_ribbon_totaldistanceresponse_dist_ddarkflash103.png, -0.0949989809644, 2.4368369269
+ribgraph_mean_ribbon_freqresponse_dpix_ddarkflash103.png, -0.420559898463, 0.070641025641
+ribgraph_mean_ribbon_displacement_dist_ddarkflash103.png, -0.0891910267398, 2.368026534
+ribgraph_mean_ribbon_fullboutdatamax_dpix_ddarkflash103.png, 0.557458094708, -11.3117185592
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_ddarkflash103.png, 0.71806346139, 18.46474359
+ribgraph_mean_ribbon_speedresponse_dist_ddarkflash103.png, 0.673638406906, -0.021284757086
+ribgraph_mean_ribbon_polygonarea_dist_ddarkflash103.png, -0.0250135061488, 4.9800407001
+ribgraph_mean_ribbon_peakspeed_ddarkflash103.png, 0.624947147507, -0.069669259226
+ribgraph_mean_ribbon_peakdpix_ddarkflash103.png, -0.190659803839, 6.683992166
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_ddarkflash103.png, -0.757748779793, -54.985897436
+Lowest Day early prepulse tap: 0.00048292963256
+Average Day early prepulse tap: 0.346143604591
+Lowaverage (reg if not >2, <0.05) Day early prepulse tap: 0.0132440685034
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition100b.png, -0.0476454255844, 846.11904762
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition100b.png, -0.0639193414752, 18.8876660589
+bigmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition100b.png, -1.0, 0.00938493676
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition100b.png, -0.0373406904686, 0.0483333333333
+ribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition100b.png, -0.594310076782, 1.3697089947
+ribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition100b.png, 0.0199665395538, -53.317777778
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition100b.png, 0.438004848273, -65.901825398
+smallmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition100b.png, 0.808773002697, -21.4938271602
+ribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition100b.png, -0.332058470901, 14.8155555555
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition100b.png, -0.755577631738, 6.3950617284
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition100b.png, 0.00225805041629, -0.111282051282
+ribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition100b.png, 0.00243887311911, 22.9805555556
+smallmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition100b.png, -0.862758530958, 1.7845950673
+ribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition100b.png, 0.903933435724, -0.0629487179484
+ribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition100b.png, 0.000643714311386, -0.192218463542
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition100b.png, -0.27743910514, 54.6349206349
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortdayprepulseinhibition100b.png, 0.00307771978145, 29.6833333333
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition100b.png, 0.27743910514, -0.053526430613
+ribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition100b.png, 0.00048292963256, -0.231509693757
+ribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition100b.png, 0.00220720415828, -0.759186346629
+bigmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition100b.png, -0.0639193414752, 17.2170450007
+bigmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition100b.png, -0.406233805111, 22.007936508
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition100b.png, -0.0294827954159, 38.0277777778
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition100b.png, 0.244687485866, -5.3292195881
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition100b.png, -0.782124728285, 190.645061728
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortdayprepulseinhibition100b.png, 0.00217088734518, 37.6333333333
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition100b.png, -0.862788763543, 2.3211235456
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition100b.png, 0.556796809427, -0.012235311263
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition100b.png, -0.352452359046, -1.0555555556
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortdayprepulseinhibition100b.png, 0.00450620449748, -2.01169467816
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition100b.png, 0.56529879831, -0.015827904618
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition100b.png, 0.917411260192, -0.005497404616
+smallmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition100b.png, 0.308945606591, -0.170783517169
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition100b.png, -0.699501040956, 4.0520833334
+ribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition100b.png, 0.174678845124, -4.6329147081
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition100b.png, 0.386088086554, 10.6728395061
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortdayprepulseinhibition100b.png, 0.0199518562598, -51.2569047621
+Lowest Location in well day1night: -0.179
+Average Location in well day1night: -0.458875
+Lowaverage (reg if not >3, <0.05) Location in well day1night: -0.458875
+ribgraph_mean_ribbonbout_centerfrac_10min_day1night.png, -0.788, 0.006
+ribgraph_mean_ribbonbout_averhofrac_10min_day1night.png, -0.474, -0.012
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day1night.png, -0.25, -0.02
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day1night.png, -0.179, -0.031
+ribgraph_mean_ribbonbout_averhofrac_min_day1night.png, -0.448, -0.012
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day1night.png, -0.29, 0.025
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day1night.png, -0.265, 0.013
+ribgraph_mean_ribbonbout_centerfrac_min_day1night.png, 0.977, -0.001
+Lowest Frequency of movement day1night: 0.001
+Average Frequency of movement day1night: 0.262
+Lowaverage (reg if not >3, <0.05) Frequency of movement day1night: 0.005
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day1night.png, 0.001, 5.207
+ribgraph_mean_ribbon_distminper_10min_day1night.png, -0.001, 2.219
+ribgraph_mean_ribbon_distsecper_min_day1night.png, -0.024, 0.304
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day1night.png, 0.42, -0.3
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day1night.png, 0.243, 13.273
+ribgraph_mean_ribbonbout_numberofbouts_min_day1night.png, -0.001, 0.155
+ribgraph_mean_ribbonbout_numberofbouts_10min_day1night.png, -0.002, 1.557
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day1night.png, 0.767, 1.591
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day1night.png, 0.448, -2.987
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day1night.png, -0.907, -0.184
+ribgraph_mean_ribbon_dpixsecper_min_day1night.png, 0.329, -0.466
+ribgraph_mean_ribbon_dpixminper_10min_day1night.png, -0.001, 3.61
+Lowest Features of movement day2heatshock: 0.007
+Average Features of movement day2heatshock: 0.200928571429
+Lowaverage (reg if not >3, <0.05) Features of movement day2heatshock: 0.200928571429
+ribgraph_mean_ribbonbout_avebouttime_min_day2heatshock.png, -0.031, 2.311
+ribgraph_mean_ribbonbout_avebouttime_10min_day2heatshock.png, -0.07, 2.279
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2heatshock.png, 0.103, -7.647
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2heatshock.png, 0.095, -0.056
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2heatshock.png, -0.093, 1.039
+ribgraph_mean_ribbonbout_aveboutdist_min_day2heatshock.png, 0.066, -1.621
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2heatshock.png, -0.265, 0.012
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2heatshock.png, -0.235, 6.775
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2heatshock.png, 0.013, -0.055
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2heatshock.png, -0.618, 2.672
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2heatshock.png, 0.007, -11.513
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2heatshock.png, 0.198, -1.695
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2heatshock.png, -0.53, 0.33
+ribgraph_mean_ribbonbout_aveboutvel_min_day2heatshock.png, 0.489, -0.006
+Lowest Location in well day2morning: -0.118
+Average Location in well day2morning: -0.428375
+Lowaverage (reg if not >3, <0.05) Location in well day2morning: -0.428375
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2morning.png, -0.118, -0.038
+ribgraph_mean_ribbonbout_averhofrac_min_day2morning.png, -0.314, -0.023
+ribgraph_mean_ribbonbout_centerfrac_10min_day2morning.png, 0.269, -0.035
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2morning.png, -0.159, 0.019
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2morning.png, -0.615, -0.012
+ribgraph_mean_ribbonbout_averhofrac_10min_day2morning.png, 0.607, 0.013
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2morning.png, -0.951, 0.001
+ribgraph_mean_ribbonbout_centerfrac_min_day2morning.png, -0.394, 0.024
+Lowest Dark flash block 3 end: -0.15900503563
+Average Dark flash block 3 end: -0.466646406451
+Lowaverage (reg if not >4, <0.05) Dark flash block 3 end: -0.466646406451
+ribgraph_mean_ribbon_velocityresponse_dist_c2darkflash103.png, 0.345776487614, -0.005575850927
+ribgraph_mean_ribbon_totaldistanceresponse_dist_c2darkflash103.png, 0.54247540511, -2.1750190549
+ribgraph_mean_ribbon_speedresponse_dist_c2darkflash103.png, 0.682664071372, -0.000990186581
+ribgraph_mean_ribbon_cumdpixresponse_dpix_c2darkflash103.png, -0.757543103605, 8.11042041
+ribgraph_mean_ribbon_polygonarea_dist_c2darkflash103.png, -0.259998162301, 1.7652047571
+ribgraph_mean_ribbon_fullboutdatamax_dpix_c2darkflash103.png, 0.354358371432, -11.0525078407
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_c2darkflash103.png, 0.509755877291, 45.563348416
+ribgraph_mean_ribbon_fullboutdatamax_dist_c2darkflash103.png, 0.367477083594, -0.04660129558
+ribgraph_mean_ribbon_timeresponse_dpix_c2darkflash103.png, 0.525936876341, -6.8586768896
+ribgraph_mean_ribbon_freqresponse_dpix_c2darkflash103.png, -0.15900503563, 0.138076923077
+ribgraph_mean_ribbon_latencyresponse_dpix_c2darkflash103.png, 0.210738915572, 39.707964639
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_c2darkflash103.png, 0.333072684918, 60.988687783
+ribgraph_mean_ribbon_peakdpix_c2darkflash103.png, -0.900400800278, 0.731203165
+ribgraph_mean_ribbon_displacement_dist_c2darkflash103.png, 0.622531828644, -2.526944418
+ribgraph_mean_ribbon_peakspeed_c2darkflash103.png, -0.42796139307, 0.095955615352
+Lowest Features of movement day2morntrans: -0.0498954019399
+Average Features of movement day2morntrans: -0.589413468351
+Lowaverage (reg if not >3, <0.05) Features of movement day2morntrans: -0.589413468351
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2morntrans.png, -0.573, 5.29
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2morntrans.png, 0.244, -0.096
+ribgraph_mean_ribbonbout_aveboutvel_min_day2morntrans.png, 0.924, -0.004
+ribgraph_mean_ribbonbout_aveboutdist_min_day2morntrans.png, 0.37, -3.284
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2morntrans.png, 0.599548469442, -1.36471218758
+ribgraph_mean_ribbonbout_avebouttime_10min_day2morntrans.png, 0.49144979658, -1.3865426703
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2morntrans.png, 0.942267125805, -0.01704804494
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2morntrans.png, 0.667186131856, -0.766371686
+ribgraph_mean_ribbonbout_avebouttime_min_day2morntrans.png, 0.434, -3.664
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2morntrans.png, 0.633, -3.119
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2morntrans.png, 0.496, -1.664
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2morntrans.png, -0.0498954019399, 9.7017510907
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2morntrans.png, 0.971114640298, -0.8660532087
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2morntrans.png, 0.856326990991, -0.009625095762
+Lowest Location in well day2darkflashes: -0.024
+Average Location in well day2darkflashes: -0.077875
+Lowaverage (reg if not >3, <0.05) Location in well day2darkflashes: -0.077875
+ribgraph_mean_ribbonbout_averhofrac_10min_day2darkflashes.png, -0.091, -0.035
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2darkflashes.png, -0.055, 0.021
+ribgraph_mean_ribbonbout_averhofrac_min_day2darkflashes.png, -0.097, -0.035
+ribgraph_mean_ribbonbout_centerfrac_10min_day2darkflashes.png, -0.059, 0.051
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2darkflashes.png, -0.084, -0.038
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2darkflashes.png, -0.094, -0.037
+ribgraph_mean_ribbonbout_centerfrac_min_day2darkflashes.png, -0.024, 0.061
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2darkflashes.png, -0.119, 0.021
+Lowest Features of movement day2night1: -0.001
+Average Features of movement day2night1: -0.398928571429
+Lowaverage (reg if not >3, <0.05) Features of movement day2night1: -0.001
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2night1.png, 0.697, -0.018
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2night1.png, 0.48, -0.038
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2night1.png, -0.001, 25.215
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2night1.png, -0.001, 24.965
+ribgraph_mean_ribbonbout_aveboutvel_min_day2night1.png, 0.329, -0.018
+ribgraph_mean_ribbonbout_avebouttime_min_day2night1.png, -0.377, 2.321
+ribgraph_mean_ribbonbout_avebouttime_10min_day2night1.png, -0.134, 4.198
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2night1.png, -0.964, 0.102
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2night1.png, -0.001, 20.767
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2night1.png, -0.001, 20.613
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2night1.png, 0.768, -0.385
+ribgraph_mean_ribbonbout_aveboutdist_min_day2night1.png, -0.99, 0.026
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2night1.png, 0.529, -0.778
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2night1.png, 0.313, -0.021
+Lowest Features of movement day1day: -0.014
+Average Features of movement day1day: -0.289214285714
+Lowaverage (reg if not >3, <0.05) Features of movement day1day: -0.289214285714
+ribgraph_mean_ribbonbout_aveboutvel_10min_day1day.png, 0.044, -0.024
+ribgraph_mean_ribbonbout_aveboutdisp_min_day1day.png, 0.643, -0.271
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day1day.png, 0.016, -10.016
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day1day.png, 0.196, -0.877
+ribgraph_mean_ribbonbout_aveboutspeed_min_day1day.png, 0.217, -0.045
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day1day.png, -0.056, 7.482
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day1day.png, -0.377, 0.036
+ribgraph_mean_ribbonbout_avebouttime_10min_day1day.png, -0.755, 0.427
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day1day.png, 0.117, -5.889
+ribgraph_mean_ribbonbout_aveboutvel_min_day1day.png, 0.303, -0.01
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day1day.png, -0.014, 8.991
+ribgraph_mean_ribbonbout_aveboutdist_10min_day1day.png, -0.333, 1.611
+ribgraph_mean_ribbonbout_aveboutdist_min_day1day.png, 0.428, -1.179
+ribgraph_mean_ribbonbout_avebouttime_min_day1day.png, -0.55, 0.683
+Lowest Location in well day1morntrans: -0.001
+Average Location in well day1morntrans: -0.158994480347
+Lowaverage (reg if not >3, <0.05) Location in well day1morntrans: -0.00827541138012
+ribgraph_mean_ribbonbout_averhofrac_10min_day1morntrans.png, 0.41522534424, 0.008430232467
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day1morntrans.png, 0.681, -0.018
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day1morntrans.png, -0.0556332531571, -0.052487061428
+ribgraph_mean_ribbonbout_centerfrac_10min_day1morntrans.png, 0.0869955998586, -0.0218534800685
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day1morntrans.png, -0.003, -0.118
+ribgraph_mean_ribbonbout_averhofrac_min_day1morntrans.png, -0.001, -0.109
+ribgraph_mean_ribbonbout_centerfrac_min_day1morntrans.png, -0.018, 0.142
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day1morntrans.png, -0.0111016455205, 0.0325230689849
+Lowest Night all weak tap: -0.00296659838672
+Average Night all weak tap: -0.309314501481
+Lowaverage (reg if not >2, <0.05) Night all weak tap: -0.0234989578628
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition100a.png, -0.100348246462, 6.5459350185
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition100a.png, -0.0575945216491, 361.84717949
+smallmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition101.png, -0.682743118511, 0.04192514556
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition100a.png, -0.0782988286781, 380.78226031
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition100a.png, 0.00865771975839, 16.3291875697
+smallmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition100a.png, -0.00334187655022, 12.6030573482
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition101.png, 0.189853705972, 8.8123717949
+ribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition101.png, -0.367497243846, 4.5417721539
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition101.png, -0.0200707352973, 30.662019231
+ribgraph_mean_ribbon_peakdpix_nightprepulseinhibition100a.png, 0.342424446922, -7.480641026
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition101.png, -0.772058969751, 0.024457319594
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition100a.png, 0.206429410204, -0.0108818011257
+ribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition100a.png, 0.29938420665, -0.0066916823015
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition100a.png, -0.495394415485, 7.5833333333
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nightprepulseinhibition101.png, -0.942984994281, 7.090096821
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition100a.png, 0.181028953358, 5.6875
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nightprepulseinhibition100a.png, 0.0318855237029, 29.68
+smallmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition101.png, -0.887631722785, 17.761153846
+ribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition101.png, 0.201245126196, 6.5339035517
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition101.png, -0.846226710546, -3.2644230769
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nightprepulseinhibition100a.png, 0.0965814004579, -18.9341025644
+ribgraph_mean_ribbon_fullboutdatamax_dist_nightprepulseinhibition101.png, -0.920192645056, 0.21443946981
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition101.png, -0.0715544000199, 26.8638461538
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition100a.png, -0.865134745405, 0.015102259194
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition100a.png, -0.0269604434584, 0.057047139756
+ribgraph_mean_ribbon_peakspeed_nightprepulseinhibition101.png, -0.87489565521, 0.10385671892
+ribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition100a.png, -0.0575070796081, 29.383397436
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition101.png, 0.160381239563, -0.0152564102564
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition100a.png, -1.0, 0.025487991671
+ribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition100a.png, -0.855112071239, 0.6683333333
+bigmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition100a.png, -0.0174171302869, 61.375
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition101.png, 0.0125944521832, -0.0234935897436
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition101.png, -0.430517357655, 13.2991898149
+ribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition101.png, 0.0305358545723, -0.03875
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition100a.png, -0.108872125133, 17.1811594203
+smallmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition100a.png, 0.0943165939527, -0.168770984644
+bigmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition100a.png, -0.496905847565, 4.3591859317
+bigmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition101.png, -0.00296659838672, 0.637277369
+bigmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition101.png, -0.0204785871629, 15.1135093474
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition100a.png, -0.496905847565, 5.005404234
+ribgraph_mean_ribbon_fullboutdatamax_dist_nightprepulseinhibition100a.png, 0.0964879927091, -0.73474940855
+bigmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition100a.png, -0.307332348418, 0.2988610069
+ribgraph_mean_ribbon_peakdpix_nightprepulseinhibition101.png, -0.699324912192, 11.44524275
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition101.png, -0.942267125804, 0.005439278656
+ribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition100a.png, -0.635005891297, 0.020475108143
+ribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition100a.png, 0.00691485713536, 17.0324358974
+smallmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition101.png, -0.107942067161, 5.9974463441
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition101.png, -0.0380755587083, 428.28750407
+ribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition101.png, -0.0341620805899, 22.7534213099
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nightprepulseinhibition101.png, 0.16547357349, 12.4398826979
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition101.png, -0.0835213766769, 7.9583015402
+ribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition100a.png, -0.0341868790197, 8.5437202063
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition101.png, -0.258478573046, 6.8136137617
+bigmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition101.png, -0.0505407795576, 39.61650641
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition101.png, 0.548229256143, -0.014794098958
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition100a.png, -0.0213137833841, 10.1317348294
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition100a.png, -0.82387095147, 0.0041901188243
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition101.png, -0.00737178342264, 17.809301613
+smallmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition100a.png, 0.0399475629182, -22.5473453177
+ribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition101.png, 0.213343465535, -0.051219203374
+ribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition101.png, 0.367516654297, -0.039239257965
+ribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition100a.png, 0.201242620958, -0.025684200833
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition101.png, -0.938502884779, 24.3402777777
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition100a.png, 0.0888692864726, -39.2083333333
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition101.png, -0.0112535989476, 656.80705129
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition101.png, -0.0371787716167, 494.97333333
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition100a.png, 0.588000152423, -0.002954009566
+ribgraph_mean_ribbon_peakspeed_nightprepulseinhibition100a.png, 0.139069416884, -0.13300718764
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition101.png, -0.764003898203, 0.013010315172
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition100a.png, -0.0399074975552, 39.057361343
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nightprepulseinhibition100a.png, 0.0482568204623, 17.57
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nightprepulseinhibition101.png, 0.267348697581, 8.7448680351
+ribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition101.png, -0.867675197283, 4.9192416778
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition100a.png, -0.0617262423351, 562.41666667
+Lowest Night all prepulse tap: 9.67123219507e-06
+Average Night all prepulse tap: 0.200285920415
+Lowaverage (reg if not >2, <0.05) Night all prepulse tap: 0.010876847715
+ribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition100b.png, 0.00399261573072, 12.3930813454
+smallmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition100b.png, -0.0148933003435, 5.43002620089
+bigmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition100b.png, -0.0065595815824, 12.859618501
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nightprepulseinhibition100b.png, 0.141247985947, -6.5648615213
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition100b.png, 9.67123219507e-06, -0.0384615384616
+ribgraph_mean_ribbon_fullboutdatamax_dist_nightprepulseinhibition100b.png, -0.105395621896, 0.03275495237
+ribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition100b.png, 0.281570808631, -0.0234834271421
+ribgraph_mean_ribbon_peakspeed_nightprepulseinhibition100b.png, 0.108996411141, -0.063749075572
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition100b.png, -0.00147485298175, 14.129766519
+ribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition100b.png, -0.00391361529547, 25.6307271157
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nightprepulseinhibition100b.png, 0.000111524619064, 28.014893617
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition100b.png, -0.819623209074, 0.0149781113196
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition100b.png, -0.0121563940248, 7.3801886321
+ribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition100b.png, -0.610361707591, 2.2228704222
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition100b.png, 0.500951697889, 4.4575011163
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition100b.png, -0.00641805819074, 444.883506009
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition100b.png, -0.0292954960479, 514.75384615
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition100b.png, -0.0103928110632, 26.5803831269
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition100b.png, -0.0768553713519, 0.194761833778
+ribgraph_mean_ribbon_peakdpix_nightprepulseinhibition100b.png, 0.0828896828094, -13.941095512
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nightprepulseinhibition100b.png, 0.0025977016127, 34.0567375886
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition100b.png, -0.504547649783, 9.5352564103
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition100b.png, -0.0111341040457, 13.8643567917
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition100b.png, -0.89878553845, 0.001818600413
+ribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition100b.png, 0.0319492910982, -0.040112040955
+ribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition100b.png, 0.0200264035413, -0.033556933811
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition100b.png, -0.187448724637, -0.533974359
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition100b.png, -0.0768553713519, 0.184623508194
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition100b.png, -0.555474482119, 0.001003114453
+smallmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition100b.png, -0.855763539238, 0.14673663284
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition100b.png, -0.336264812087, 3.8646612704
+bigmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition100b.png, -0.0195261779077, 33.202564102
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition100b.png, -0.0888975220497, 260.955625557
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition100b.png, -0.0195888392538, 39.6602564103
+ribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition100b.png, -0.169623836477, 9.6497415145
+smallmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition100b.png, -0.813241823971, 10.2062150872
+bigmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition100b.png, -0.00174282029889, 0.505468019
+Lowest Location in well day2nightstim: -0.131
+Average Location in well day2nightstim: -0.5715
+Lowaverage (reg if not >3, <0.05) Location in well day2nightstim: -0.5715
+ribgraph_mean_ribbonbout_averhofrac_10min_day2nightstim.png, -0.215, -0.023
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2nightstim.png, -0.131, 0.029
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2nightstim.png, -0.957, -0.001
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2nightstim.png, 0.764, 0.006
+ribgraph_mean_ribbonbout_centerfrac_10min_day2nightstim.png, -0.639, 0.01
+ribgraph_mean_ribbonbout_centerfrac_min_day2nightstim.png, -0.842, 0.004
+ribgraph_mean_ribbonbout_averhofrac_min_day2nightstim.png, -0.297, -0.019
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2nightstim.png, -0.727, 0.004
+Lowest Day light flash: -7.26752410231e-05
+Average Day light flash: -0.114492831867
+Lowaverage (reg if not >2, <0.05) Day light flash: -0.00511742474068
+ribgraph_mean_ribbon_fullboutdatamax_dpix_lightflash104.png, -0.341013422727, 15.3695294118
+ribgraph_mean_ribbon_cumdpixresponse_dpix_lightflash104.png, -0.000992231731255, 481.216010696
+ribgraph_mean_ribbon_timeresponse_dpix_lightflash104.png, -0.00109935338734, 27.4033519014
+ribgraph_mean_ribbon_fullboutdatamax_dist_lightflash104.png, -0.444504746367, 1.10519463207
+ribgraph_mean_ribbon_freqresponse_dpix_lightflash104.png, -0.000724504309689, 0.195064102564
+ribgraph_mean_ribbon_totaldistanceresponse_dist_lightflash104.png, -0.000518058528948, 8.69017880388
+ribgraph_mean_ribbon_velocityresponse_dist_lightflash104.png, -0.0139744177114, 0.0493782258691
+ribgraph_mean_ribbon_displacement_dist_lightflash104.png, -7.26752410231e-05, 6.9161117134
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_lightflash104.png, -0.297649069542, -120.96
+ribgraph_mean_ribbon_peakdpix_lightflash104.png, -0.0139043579723, 30.8569226084
+ribgraph_mean_ribbon_speedresponse_dist_lightflash104.png, -0.00500446201295, 0.059462945158
+ribgraph_mean_ribbon_peakspeed_lightflash104.png, -0.00167276478094, 0.177544553117
+ribgraph_mean_ribbon_latencyresponse_dpix_lightflash104.png, -0.183857535742, -101.903607472
+ribgraph_mean_ribbon_polygonarea_dist_lightflash104.png, -0.013211421731, 11.0133991587
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_lightflash104.png, -0.39919345622, -93.94
+Lowest Night tap habituation: -0.121293017588
+Average Night tap habituation: -0.485047189551
+Lowaverage (reg if not >4, <0.05) Night tap habituation: -0.485047189551
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nighttaphab102.png, 0.644192106739, -0.0094017094017
+bigmovesribgraph_mean_ribbon_displacement_dist_nighttaphab102.png, -0.22067136192, 25.9441498659
+ribgraph_mean_ribbon_freqresponse_dpix_nighttaphab1.png, -0.245003878606, 0.0237386269644
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nighttaphab102.png, -0.291540550651, 10.584382616
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nighttaphab102.png, -0.260315045281, 49.984375
+smallmovesribgraph_mean_ribbon_peakdpix_nighttaphab102.png, -0.673416574634, 11.2708333333
+ribgraph_mean_ribbon_speedresponse_dist_nighttaphab102.png, 0.528733325121, -0.006490059542
+bigmovesribgraph_mean_ribbon_peakdpix_nighttaphab102.png, -0.22067136192, 48.0
+ribgraph_mean_ribbon_slowfullboutdatamax_dist_nighttaphab1.png, 0.734700916433, -3.65976133673
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nighttaphab102.png, -0.22067136192, 28.2300109863
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nighttaphab102.png, -0.377642256553, 8.8740130465
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nighttaphab102.png, -1.0, 0.132040217519
+smallmovesribgraph_mean_ribbon_peakspeed_nighttaphab102.png, -0.28084283727, 0.136793951814
+ribgraph_mean_ribbon_polygonarea_dist_nighttaphab102.png, 0.864655151301, -4.2307692308
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nighttaphab102.png, -0.32540318048, 428.677083333
+ribgraph_mean_ribbon_slowfullboutdatamax_dpix_nighttaphab1.png, 0.990929519918, -0.0107198228
+ribgraph_mean_ribbon_displacement_dist_nighttaphab102.png, -0.206856513549, 8.7233553173
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nighttaphab102.png, -1.0, 0.16988607496
+ribgraph_mean_ribbon_freqresponse_dpix_nighttaphab102.png, -0.14104462721, 0.0807692307693
+ribgraph_mean_ribbon_fullboutdatamax_dist_nighttaphab102.png, 0.798674108998, -0.19925547738
+ribgraph_mean_ribbon_timeresponse_dpix_nighttaphab102.png, -0.312953569656, 40.4444444444
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dist_nighttaphab1.png, 0.171284617674, 12.5023255814
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nighttaphab102.png, -0.290039200642, -13.4166666667
+ribgraph_mean_ribbon_peakdpix_nighttaphab102.png, 0.528733325121, -5.6203703704
+bigmovesribgraph_mean_ribbon_peakspeed_nighttaphab102.png, 1.0, -0.09528708458
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nighttaphab102.png, -0.705456986111, 405.824074074
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nighttaphab102.png, 0.704927777998, 22.3611111111
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nighttaphab102.png, -0.189255431692, 11.3636363636
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nighttaphab102.png, 1.0, 0.0
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nighttaphab102.png, -0.22067136192, 1312.5
+ribgraph_mean_ribbon_velocityresponse_dist_nighttaphab102.png, -0.506555169049, 0.064671187223
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nighttaphab102.png, -0.22067136192, 69.75
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nighttaphab1.png, 0.884781052242, -0.4129385965
+ribgraph_mean_ribbon_displacement_dist_nighttaphab1.png, -0.571589795857, 2.05800959075
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nighttaphab102.png, -0.22067136192, 42.0
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nighttaphab1.png, 0.315302452082, -22.5558925477
+ribgraph_mean_ribbon_latencyresponse_dpix_nighttaphab1.png, -0.633018457332, -35.498817264
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nighttaphab102.png, -0.161987831317, 0.0901709401706
+ribgraph_mean_ribbon_peakspeed_nighttaphab102.png, 0.610374914156, -0.144778355681
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nighttaphab102.png, 0.528267794817, 26.0555555556
+smallmovesribgraph_mean_ribbon_displacement_dist_nighttaphab102.png, -0.121293017588, 8.79442620401
+ribgraph_mean_ribbon_latencyresponse_dpix_nighttaphab102.png, -0.704608881953, -5.7037037037
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nighttaphab102.png, -0.528733325121, 0.9537037037
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nighttaphab102.png, -0.136037128114, 0.0661522843565
+ribgraph_mean_ribbon_timeresponse_dpix_nighttaphab1.png, -0.805022883358, 8.867863879
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nighttaphab102.png, -0.439473672712, 0.018693717274
+ribgraph_mean_ribbon_slowfullboutdatamaxloc_dpix_nighttaphab1.png, -0.259541860037, -8.6604651163
+Lowest Features of movement day2morning: 0.012
+Average Features of movement day2morning: 0.122571428571
+Lowaverage (reg if not >3, <0.05) Features of movement day2morning: 0.0312
+ribgraph_mean_ribbonbout_avebouttime_10min_day2morning.png, 0.04, -2.991
+ribgraph_mean_ribbonbout_aveboutvel_min_day2morning.png, 0.061, -0.021
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2morning.png, -0.073, 8.598
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2morning.png, -0.054, 8.92
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2morning.png, 0.087, -0.02
+ribgraph_mean_ribbonbout_aveboutdist_min_day2morning.png, 0.044, -3.142
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2morning.png, 0.262, -5.11
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2morning.png, 0.578, -2.337
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2morning.png, 0.021, -1.664
+ribgraph_mean_ribbonbout_avebouttime_min_day2morning.png, 0.133, -2.389
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2morning.png, 0.012, -4.326
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2morning.png, 0.039, -1.67
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2morning.png, 0.107, -0.072
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2morning.png, 0.205, -0.047
+Lowest Day early weak tap: 0.0160879339226
+Average Day early weak tap: 0.46518214018
+Lowaverage (reg if not >2, <0.05) Day early weak tap: 0.0310078897241
+bigmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition100a.png, -1.0, 0.1095259973
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition100a.png, 1.0, -0.054324151575
+ribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition100a.png, 0.376344493499, -0.140707027638
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition101.png, -0.0357753142312, 80.0333333333
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition101.png, 0.924711470098, -0.055501977102
+bigmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition100a.png, -0.46243272645, 29.45
+smallmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition101.png, 0.46389159895, -28.9494047623
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortdayprepulseinhibition100a.png, -0.792751783939, -2.1875
+bigmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition101.png, -0.0333108061988, 12.0595452305
+ribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition101.png, 0.15699222842, -0.075293599936
+bigmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition101.png, -0.0851319311254, 34.270995671
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition101.png, 0.0275004926634, -0.0439102564102
+ribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition101.png, -0.983797907751, 15.91875
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition101.png, 0.0755532876156, 12.671875
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortdayprepulseinhibition100a.png, 0.460994786426, -18.838888889
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition100a.png, -0.323678160907, 0.040549273405
+bigmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition100a.png, -0.460558169227, 0.11073729992
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition100a.png, 0.843525869093, -0.1878138311
+bigmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition101.png, -0.440700267582, 0.20504114324
+ribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition100a.png, 0.238184949992, -0.15187073976
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition100a.png, -0.46243272645, 8.925
+smallmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition101.png, 0.630967599607, -0.227042891307
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition101.png, -0.102703662213, 21.0318181818
+ribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition101.png, 0.363410941625, -0.0237980769231
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition101.png, -0.574975353188, -0.9757575758
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition100a.png, -0.489062805831, -12.4090909091
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition101.png, -0.699511446547, 1.9453910063
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition100a.png, 0.569688059137, -0.0016666666667
+ribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition100a.png, 1.0, 1.9104166667
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortdayprepulseinhibition100a.png, 0.578606053261, -1.06349170681
+ribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition101.png, 0.0461268988543, -0.100509797816
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortdayprepulseinhibition101.png, 0.146257938762, -0.8965645596
+ribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition101.png, -0.910347437886, 0.7353885072
+smallmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition101.png, 0.776550710556, -0.84369939267
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition100a.png, -0.941232406116, 33.302083333
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition101.png, -0.940865554999, 9.5555555556
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition101.png, -0.562629140151, 141.22643678
+smallmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition100a.png, -0.614291781887, 0.089877694845
+ribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition100a.png, 0.237919787591, -5.4921891024
+ribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition100a.png, 0.970496162484, -0.4229166667
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition100a.png, -0.46243272645, 383.1
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition100a.png, 0.337874848738, -3.8803770098
+ribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition101.png, 0.0250461255988, 13.8511494253
+ribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition101.png, 0.150668670535, -0.312009953513
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition101.png, -0.0773874087815, 688.00389611
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition101.png, -0.221461838357, 0.06376989898
+ribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition100a.png, 0.417405435131, -21.847916667
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition100a.png, 0.690990962033, -14.3181818182
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortdayprepulseinhibition101.png, 0.0160879339226, 23.5344827586
+ribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition100a.png, 0.380490469331, -0.0453846153846
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition101.png, -0.0633656646096, 15.7458380778
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition100a.png, 0.46243272645, -4.15
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition100a.png, 0.46243272645, -0.104347699881
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition100a.png, -1.0, 5.9260926247
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition100a.png, -0.151735446777, -3.675
+smallmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition100a.png, -0.843525869093, 3.1818181818
+ribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition101.png, 0.412074108287, -25.065517241
+ribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition100a.png, 0.394410014479, -0.353469859871
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition101.png, -0.297635737277, 0.054374312193
+ribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition100a.png, 0.36845499013, -15.3833333333
+smallmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition100a.png, -1.0, 0.17595756116
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortdayprepulseinhibition101.png, 0.376406071049, -19.991954023
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition101.png, -0.670683571563, 115.915674603
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition101.png, -0.621849581693, 0.0201121794871
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition100a.png, 0.0792283410929, -0.0437179487179
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortdayprepulseinhibition100a.png, 0.764370089136, 8.96875
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition100a.png, -0.843525869093, 129.818181818
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortdayprepulseinhibition101.png, 0.0332076565998, 18.8034482759
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition101.png, -0.740831625915, 0.2554151787
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition100a.png, -0.511009207068, 5.2
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition101.png, 0.0725721219701, -0.102280632286
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition101.png, -0.142704170178, 20.7326388889
+ribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition101.png, -0.0974683818618, 19.0247126437
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition100a.png, -0.42979527234, 0.027181594097
+Lowest Location in well combo: -0.00142873954842
+Average Location in well combo: -0.0173404414936
+Lowaverage (reg if not >3, <0.05) Location in well combo: -0.0173404414936
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_combo.png, -0.0454453306787, -0.030013674886
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_combo.png, -0.01610058939, -0.038612858492
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_combo.png, -0.00774789746743, 0.0174288805761
+ribgraph_mean_ribbonbout_centerfrac_min_combo.png, -0.00142873954842, 0.04875880082
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_combo.png, -0.00303913737417, 0.0127666676105
+ribgraph_mean_ribbonbout_centerfrac_10min_combo.png, -0.00406708159737, 0.0373343001178
+ribgraph_mean_ribbonbout_averhofrac_10min_combo.png, -0.0454453306787, -0.029266061434
+ribgraph_mean_ribbonbout_averhofrac_min_combo.png, -0.0154494252141, -0.035930152464
+Lowest Frequency of movement day1evening: -0.001
+Average Frequency of movement day1evening: -0.10725
+Lowaverage (reg if not >3, <0.05) Frequency of movement day1evening: -0.00255555555556
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day1evening.png, -0.051, -21.199
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day1evening.png, -0.367, -1.147
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day1evening.png, 0.846, 0.162
+ribgraph_mean_ribbonbout_numberofbouts_10min_day1evening.png, -0.001, 11.377
+ribgraph_mean_ribbon_dpixminper_10min_day1evening.png, -0.001, 3.057
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day1evening.png, -0.002, 3.91
+ribgraph_mean_ribbon_distminper_10min_day1evening.png, -0.001, 3.388
+ribgraph_mean_ribbon_distsecper_min_day1evening.png, -0.001, 4.807
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day1evening.png, -0.004, 36.642
+ribgraph_mean_ribbonbout_numberofbouts_min_day1evening.png, -0.001, 1.145
+ribgraph_mean_ribbon_dpixsecper_min_day1evening.png, -0.001, 9.142
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day1evening.png, -0.011, -16.9
+Lowest Location in well day1mornstim: -0.076
+Average Location in well day1mornstim: -0.496625
+Lowaverage (reg if not >3, <0.05) Location in well day1mornstim: -0.496625
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day1mornstim.png, -0.11, -0.036
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day1mornstim.png, -0.73, -0.009
+ribgraph_mean_ribbonbout_averhofrac_10min_day1mornstim.png, -0.841, -0.005
+ribgraph_mean_ribbonbout_centerfrac_min_day1mornstim.png, -0.647, 0.014
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day1mornstim.png, -0.306, 0.016
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day1mornstim.png, -0.076, 0.03
+ribgraph_mean_ribbonbout_averhofrac_min_day1mornstim.png, -0.468, -0.016
+ribgraph_mean_ribbonbout_centerfrac_10min_day1mornstim.png, 0.795, -0.01
+Lowest Day early strong tap: -0.000107774444896
+Average Day early strong tap: -0.248151354286
+Lowaverage (reg if not >2, <0.05) Day early strong tap: -0.0139700760318
+bigmovesribgraph_mean_ribbon_speedresponse_dist_adaytappre102.png, -0.123585519129, 0.101013690725
+ribgraph_mean_ribbon_peakspeed_adaytappre102.png, -0.23263371402, 0.08393126992
+smallmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition102.png, -0.0737464518979, 3.21469888525
+ribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition102.png, 0.2514495824, 3.6426004947
+ribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition102.png, -0.000156165542766, 19.0997964338
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_adaytappre102.png, -0.00935358848084, 0.044668943603
+ribgraph_mean_ribbon_fullboutdatamax_dist_shortdayprepulseinhibition102.png, -0.337639903747, 0.42805383835
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition102.png, -0.398714173861, 4.6057669959
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_adaytappre102.png, -0.604832560403, 3.4023893893
+ribgraph_mean_ribbon_fullboutdatamax_dist_adaytappre102.png, -0.148223791746, 0.58271423693
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_adaytappre102.png, -0.000118242348471, 763.95185186
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_adaytappre102.png, -0.293601688893, 13.3037878788
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_adaytappre102.png, 0.0306285940995, -0.146923076923
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_adaytappre102.png, 0.80447379316, 5.9919499106
+ribgraph_mean_ribbon_polygonarea_dist_adaytappre102.png, -0.0970642104101, 31.5408243888
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition102.png, 0.0037088135074, -0.196245421245
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition102.png, -0.00360770264185, 11.2049861527
+smallmovesribgraph_mean_ribbon_polygonarea_dist_adaytappre102.png, -0.0336820261849, 23.715681445
+smallmovesribgraph_mean_ribbon_displacement_dist_adaytappre102.png, -0.0288638197831, 5.68151953537
+ribgraph_mean_ribbon_timeresponse_dpix_adaytappre102.png, -0.00783285781961, 19.2747987478
+ribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition102.png, -0.170405534772, 5.2403075603
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition102.png, -0.207870530117, 14.2355571848
+bigmovesribgraph_mean_ribbon_polygonarea_dist_adaytappre102.png, -0.00829201899125, 54.4275452494
+ribgraph_mean_ribbon_velocityresponse_dist_adaytappre102.png, 0.930409792761, -0.008533295011
+bigmovesribgraph_mean_ribbon_displacement_dist_adaytappre102.png, -0.000803634222978, 11.7861164241
+bigmovesribgraph_mean_ribbon_peakdpix_adaytappre102.png, -0.00124992086893, 32.070477208
+ribgraph_mean_ribbon_freqresponse_dpix_adaytappre102.png, 0.037655390403, -0.171666666667
+ribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition102.png, -0.531288513746, 1.938238507
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_adaytappre102.png, 0.133328616799, 8.8157423971
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_adaytappre102.png, -0.00776295114312, 21.5400819089
+ribgraph_mean_ribbon_peakdpix_adaytappre102.png, -0.490859363948, 0.995342448
+ribgraph_mean_ribbon_speedresponse_dist_adaytappre102.png, 0.992258046794, -0.009010174037
+ribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition102.png, -0.321912170475, 0.09172873969
+ribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition102.png, -0.00913151093534, 333.07491636
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_shortdayprepulseinhibition102.png, 0.0191452576799, 5.280952381
+ribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition102.png, -0.007198837914, 38.6866196923
+smallmovesribgraph_mean_ribbon_peakdpix_adaytappre102.png, 0.101276451187, -30.076767677
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition102.png, 0.0296192827369, 10.3953079179
+bigmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition102.png, -0.00523660832688, 54.4888638128
+ribgraph_mean_ribbon_totaldistanceresponse_dist_adaytappre102.png, -0.0156873358106, 8.8016730614
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_adaytappre102.png, -0.428014449935, 0.056226998255
+smallmovesribgraph_mean_ribbon_peakspeed_adaytappre102.png, 0.179543187746, -0.083637960636
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_shortdayprepulseinhibition102.png, 0.783673365108, 4.2428571429
+ribgraph_mean_ribbon_fullboutdatamax_dpix_shortdayprepulseinhibition102.png, -0.480602190649, 1.886376005
+bigmovesribgraph_mean_ribbon_displacement_dist_shortdayprepulseinhibition102.png, -0.0452658629953, 6.6649885664
+bigmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition102.png, -0.00944196136194, 26.638134669
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition102.png, 0.766757718006, -0.025558059007
+ribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition102.png, 0.00233680946697, -0.214468864468
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_shortdayprepulseinhibition102.png, -0.000240244871936, 20.6568064365
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_adaytappre102.png, -0.249731242898, -0.27683404558
+bigmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition102.png, -0.110828579559, 0.17756657125
+ribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition102.png, 0.769370296695, -0.031024963267
+smallmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition102.png, 0.183437033937, -0.024974037697
+smallmovesribgraph_mean_ribbon_polygonarea_dist_shortdayprepulseinhibition102.png, -0.0489363737843, 31.7196969697
+smallmovesribgraph_mean_ribbon_peakspeed_shortdayprepulseinhibition102.png, -0.763739990302, 0.119561094497
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_shortdayprepulseinhibition102.png, 0.404878828275, -0.0182234432235
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition102.png, -0.807848317595, 58.664565001
+ribgraph_mean_ribbon_fullboutdatamax_dpix_adaytappre102.png, 0.748790445065, -0.254502087
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_adaytappre102.png, 0.368278627206, -0.024743589744
+bigmovesribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition102.png, -0.838411890134, 0.003045174557
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_shortdayprepulseinhibition102.png, -0.657131671295, -0.34282358469
+smallmovesribgraph_mean_ribbon_speedresponse_dist_adaytappre102.png, 0.134941875098, -0.03099727145
+ribgraph_mean_ribbon_totaldistanceresponse_dist_shortdayprepulseinhibition102.png, -0.0330369783932, 8.037200251
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_shortdayprepulseinhibition102.png, -0.431454587929, 0.01580934486
+ribgraph_mean_ribbon_speedresponse_dist_shortdayprepulseinhibition102.png, 0.769370296695, -0.029452114852
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_adaytappre102.png, 0.0265637817081, 17.3335858586
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_shortdayprepulseinhibition102.png, -0.00152353691963, 518.01216568
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_adaytappre102.png, -0.454793514116, 147.252813852
+ribgraph_mean_ribbon_cumdpixresponse_dpix_adaytappre102.png, -0.00535552602454, 443.69813655
+bigmovesribgraph_mean_ribbon_peakspeed_adaytappre102.png, -0.000528947572926, 0.4607140067
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_adaytappre102.png, -0.000107774444896, 17.7663553543
+ribgraph_mean_ribbon_displacement_dist_adaytappre102.png, -0.0511339899537, 5.84595461
+ribgraph_mean_ribbon_latencyresponse_dpix_adaytappre102.png, 0.165009381057, 8.803667263
+smallmovesribgraph_mean_ribbon_peakdpix_shortdayprepulseinhibition102.png, 0.136811970691, -32.528641251
+Lowest Frequency of movement day1taps: -0.001
+Average Frequency of movement day1taps: -0.0898333333333
+Lowaverage (reg if not >3, <0.05) Frequency of movement day1taps: -0.00111111111111
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day1taps.png, -0.001, -35.132
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day1taps.png, -0.001, 46.531
+ribgraph_mean_ribbon_dpixsecper_min_day1taps.png, -0.001, 10.784
+ribgraph_mean_ribbon_distsecper_min_day1taps.png, -0.001, 5.215
+ribgraph_mean_ribbonbout_numberofbouts_10min_day1taps.png, -0.002, 10.818
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day1taps.png, -0.001, 4.804
+ribgraph_mean_ribbon_distminper_10min_day1taps.png, -0.001, 3.573
+ribgraph_mean_ribbon_dpixminper_10min_day1taps.png, -0.001, 2.656
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day1taps.png, -0.228, -11.412
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day1taps.png, -0.524, -0.458
+ribgraph_mean_ribbonbout_numberofbouts_min_day1taps.png, -0.001, 1.087
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day1taps.png, 0.316, 1.189
+Lowest Dark flash block 1 start: -9.4142395731e-07
+Average Dark flash block 1 start: -0.246331695792
+Lowaverage (reg if not >2, <0.05) Dark flash block 1 start: -0.00304034159457
+ribgraph_mean_ribbon_peakdpix_adarkflash103.png, -0.00122082264828, 22.2922847982
+ribgraph_mean_ribbon_velocityresponse_dist_adarkflash103.png, -0.0231315721612, 0.02906069488
+ribgraph_mean_ribbon_displacement_dist_adarkflash103.png, -1.6938072519e-05, 7.922753592
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_adarkflash103.png, -0.60376329344, -43.319230769
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_adarkflash103.png, 0.59840418225, 6.676923077
+ribgraph_mean_ribbon_cumdpixresponse_dpix_adarkflash103.png, -1.6938072519e-05, 492.550472124
+ribgraph_mean_ribbon_fullboutdatamax_dist_adarkflash103.png, -0.640998876143, 0.83275356219
+ribgraph_mean_ribbon_latencyresponse_dpix_adarkflash103.png, 0.577843037542, 24.079907408
+ribgraph_mean_ribbon_speedresponse_dist_adarkflash103.png, -0.00262727328843, 0.055470805364
+ribgraph_mean_ribbon_timeresponse_dpix_adarkflash103.png, -7.14958707603e-05, 26.7318055559
+ribgraph_mean_ribbon_polygonarea_dist_adarkflash103.png, -4.48004307643e-06, 23.6550231482
+ribgraph_mean_ribbon_peakspeed_adarkflash103.png, -0.000272612770425, 0.278160988593
+ribgraph_mean_ribbon_totaldistanceresponse_dist_adarkflash103.png, -9.4142395731e-07, 10.9467554761
+ribgraph_mean_ribbon_freqresponse_dpix_adarkflash103.png, -0.642796345524, 0.033974358975
+ribgraph_mean_ribbon_fullboutdatamax_dpix_adarkflash103.png, -0.603806627631, 1.7109427147
+Lowest Frequency of movement day2nighttrans: 6.11569496606e-05
+Average Frequency of movement day2nighttrans: 0.11305293548
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2nighttrans: 0.00201019282494
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2nighttrans.png, -0.008, -2.808
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2nighttrans.png, 0.38001089265, 18.2906392969
+ribgraph_mean_ribbon_dpixminper_10min_day2nighttrans.png, -0.109660366816, 1.64871794871
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2nighttrans.png, 0.225796762918, -9.3653846154
+ribgraph_mean_ribbonbout_numberofbouts_min_day2nighttrans.png, -0.001, 3.361
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2nighttrans.png, -0.066, -5.082
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2nighttrans.png, 6.11569496606e-05, 10.6820725764
+ribgraph_mean_ribbon_distminper_10min_day2nighttrans.png, -0.259375060764, 1.27179487179
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2nighttrans.png, -0.001, 13.957
+ribgraph_mean_ribbon_distsecper_min_day2nighttrans.png, -0.001, 11.448
+ribgraph_mean_ribbon_dpixsecper_min_day2nighttrans.png, -0.001, 18.52
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2nighttrans.png, -0.303730985659, 0.85897435898
+Lowest Frequency of movement day1day: -0.001
+Average Frequency of movement day1day: -0.114416666667
+Lowaverage (reg if not >3, <0.05) Frequency of movement day1day: -0.0223333333333
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day1day.png, 0.326, 1.405
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day1day.png, -0.068, 38.56
+ribgraph_mean_ribbon_distminper_10min_day1day.png, -0.001, 2.759
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day1day.png, 0.043, 1.692
+ribgraph_mean_ribbon_dpixsecper_min_day1day.png, -0.027, 7.134
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day1day.png, -0.088, 3.415
+ribgraph_mean_ribbonbout_numberofbouts_min_day1day.png, -0.056, 1.143
+ribgraph_mean_ribbonbout_numberofbouts_10min_day1day.png, -0.046, 12.772
+ribgraph_mean_ribbon_distsecper_min_day1day.png, -0.016, 4.536
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day1day.png, 0.651, 5.854
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day1day.png, -0.05, -12.916
+ribgraph_mean_ribbon_dpixminper_10min_day1day.png, -0.001, 2.574
+Lowest Features of movement day1morntrans: 0.001
+Average Features of movement day1morntrans: 0.344284083597
+Lowaverage (reg if not >3, <0.05) Features of movement day1morntrans: 0.344284083597
+ribgraph_mean_ribbonbout_aveboutvel_10min_day1morntrans.png, -0.550193210026, 0.004018788889
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day1morntrans.png, -0.525, 3.528
+ribgraph_mean_ribbonbout_aveboutdist_10min_day1morntrans.png, 0.730847608503, -1.6916600267
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day1morntrans.png, -0.009, 18.181
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day1morntrans.png, -0.56596649616, 1.935826826
+ribgraph_mean_ribbonbout_aveboutdisp_min_day1morntrans.png, 0.068, -3.109
+ribgraph_mean_ribbonbout_avebouttime_min_day1morntrans.png, -0.194, 4.938
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day1morntrans.png, 0.41522534424, -0.064541715859
+ribgraph_mean_ribbonbout_aveboutspeed_min_day1morntrans.png, 0.467, -0.046
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day1morntrans.png, -0.526289045762, 0.65713689431
+ribgraph_mean_ribbonbout_aveboutvel_min_day1morntrans.png, 0.001, -0.101
+ribgraph_mean_ribbonbout_avebouttime_10min_day1morntrans.png, -0.0584620179125, 2.9316019773
+ribgraph_mean_ribbonbout_aveboutdist_min_day1morntrans.png, 0.706, -1.136
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day1morntrans.png, -0.00299344775415, 17.7551265523
+Lowest Frequency of movement day2morntrans: -6.62760767345e-06
+Average Frequency of movement day2morntrans: -0.114381461183
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2morntrans: -0.00309625569944
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2morntrans.png, -0.479, -1.041
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2morntrans.png, 0.266, 5.062
+ribgraph_mean_ribbon_dpixminper_10min_day2morntrans.png, -0.0158341590055, 2.24358974359
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2morntrans.png, -5.29694597345e-05, -4.59521891751
+ribgraph_mean_ribbon_distsecper_min_day2morntrans.png, -0.089, 2.164
+ribgraph_mean_ribbon_dpixsecper_min_day2morntrans.png, -0.119, 3.964
+ribgraph_mean_ribbonbout_numberofbouts_min_day2morntrans.png, -0.272, 0.489
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2morntrans.png, -0.129, 2.32
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2morntrans.png, -6.62760767345e-06, 137.623076923
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2morntrans.png, -1.28155426576e-05, 48.7038461538
+ribgraph_mean_ribbon_distminper_10min_day2morntrans.png, -0.00228369743442, 2.62307692308
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2morntrans.png, -0.000387265146628, -20.4417588149
+Lowest Day all prepulse tap: 3.89954198158e-06
+Average Day all prepulse tap: 0.198197252627
+Lowaverage (reg if not >2, <0.05) Day all prepulse tap: 0.00128500306903
+ribgraph_mean_ribbon_peakspeed_dayprepulseinhibition100b.png, 3.89954198158e-06, -0.513116888243
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition100b.png, 0.000175577952597, -0.0329548229548
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition100b.png, -0.958846169356, 4.74817661
+ribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition100b.png, 5.13451070003e-06, -0.162166600721
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition100b.png, -0.000142400128803, 794.61367057
+ribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition100b.png, 0.136970456202, -10.6616191715
+smallmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition100b.png, 0.183430618982, -0.022902585186
+ribgraph_mean_ribbon_fullboutdatamax_dpix_dayprepulseinhibition100b.png, 6.29003918376e-05, -44.3108426444
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition100b.png, -0.00103510015091, 35.8649038462
+ribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition100b.png, 0.0121002062849, -3.5961194884
+bigmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition100b.png, -0.269767685537, 14.35
+smallmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition100b.png, -0.47144337709, 1.7803606082
+ribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition100b.png, 0.00648078504498, -4.9156667782
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_dayprepulseinhibition100b.png, 1.08334739199e-05, 35.4038461538
+ribgraph_mean_ribbon_cumdpixresponse_dpix_dayprepulseinhibition100b.png, 0.11923200718, -148.971435881
+bigmovesribgraph_mean_ribbon_speedresponse_dist_dayprepulseinhibition100b.png, -0.729481967745, 0.01900530156
+ribgraph_mean_ribbon_peakdpix_dayprepulseinhibition100b.png, 2.68790768007e-05, -47.526477084
+bigmovesribgraph_mean_ribbon_polygonarea_dist_dayprepulseinhibition100b.png, -0.14207743995, 40.5571969697
+smallmovesribgraph_mean_ribbon_peakdpix_dayprepulseinhibition100b.png, 0.132299026833, -17.7092715974
+ribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition100b.png, 3.58348890531e-05, -0.115399069296
+bigmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition100b.png, -0.000352350683849, 14.7871900534
+ribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition100b.png, -0.135434984183, 0.0182539682539
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition100b.png, -0.960598853249, 0.048709355643
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition100b.png, 0.575745431364, 0.280912068
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition100b.png, -0.171457518449, 6.618924604
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition100b.png, -0.000578114221896, 17.0596864057
+smallmovesribgraph_mean_ribbon_displacement_dist_dayprepulseinhibition100b.png, -0.160957456312, 2.09358363339
+smallmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition100b.png, 0.18625593858, -0.11864279486
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_dayprepulseinhibition100b.png, 5.55903571877e-05, 26.9903846153
+ribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition100b.png, 0.000238694743149, 12.3586854105
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_dayprepulseinhibition100b.png, -0.353570703234, 0.01537287389
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_dayprepulseinhibition100b.png, -0.505965403792, 1.0619960295
+ribgraph_mean_ribbon_timeresponse_dpix_dayprepulseinhibition100b.png, -0.0943439714463, 8.1580799665
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_dayprepulseinhibition100b.png, -0.000530517855847, 0.0512087912088
+bigmovesribgraph_mean_ribbon_peakspeed_dayprepulseinhibition100b.png, -0.499213625422, 0.1238789081
+ribgraph_mean_ribbon_fullboutdatamax_dist_dayprepulseinhibition100b.png, 1.0232865166e-05, -1.6361784151
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_dayprepulseinhibition100b.png, 0.524360660135, 3.0716522185
+Lowest Night all strong tap: 3.18100467719e-05
+Average Night all strong tap: 0.155996832095
+Lowaverage (reg if not >2, <0.05) Night all strong tap: 0.0130286757352
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition102.png, -0.0116115918664, 0.03449409299
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nighttappost102.png, -0.119751671019, 18.5517276423
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition102.png, -0.168093308437, 0.078392097111
+ribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition102.png, -0.354380407271, 3.0306335864
+ribgraph_mean_ribbon_freqresponse_dpix_nighttappost102.png, -0.944940599351, 0.005897435898
+ribgraph_mean_ribbon_speedresponse_dist_nighttappost102.png, 0.000278858274041, -0.145802094586
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition102.png, -0.0651964190781, 345.59812614
+smallmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition102.png, -0.00513857515941, 18.0581403952
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nighttappost102.png, 0.0585809498482, 19.3012195122
+ribgraph_mean_ribbon_polygonarea_dist_nighttappost102.png, -0.86653091825, 8.2490114561
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition102.png, -0.00569150190445, 7.0803552936
+bigmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition102.png, -0.0369939147118, 6.6428285916
+bigmovesribgraph_mean_ribbon_displacement_dist_nighttappost102.png, -0.0989601540194, 10.9239349233
+ribgraph_mean_ribbon_displacement_dist_nighttappost102.png, -0.624977057825, 0.3185734264
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nighttappost102.png, -0.031718268729, 0.114358974359
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nightprepulseinhibition102.png, 0.00577364427889, 25.8461538462
+bigmovesribgraph_mean_ribbon_peakspeed_nighttappost102.png, -0.00666772277428, 0.46199861985
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nighttappost102.png, -0.238592829316, 56.2083333333
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition102.png, -0.000158048599446, 39.4826585161
+bigmovesribgraph_mean_ribbon_peakdpix_nighttappost102.png, -0.0675006878025, 35.433333334
+bigmovesribgraph_mean_ribbon_speedresponse_dist_nighttappost102.png, -0.288844366346, 0.017852489264
+smallmovesribgraph_mean_ribbon_displacement_dist_nightprepulseinhibition102.png, -0.00081904672298, 8.0265061505
+smallmovesribgraph_mean_ribbon_displacement_dist_nighttappost102.png, -0.0368198701989, 8.38201448476
+smallmovesribgraph_mean_ribbon_peakdpix_nighttappost102.png, 0.0920894369011, -48.7369918696
+ribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition102.png, 0.0296391661854, -0.143655489809
+ribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition102.png, -0.000924618629474, 26.3122552376
+bigmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition102.png, -0.00414004720945, 0.44771811586
+ribgraph_mean_ribbon_peakdpix_nightprepulseinhibition102.png, 0.114810341783, -12.187757092
+ribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition102.png, -0.575149446832, 11.9852042434
+ribgraph_mean_ribbon_fullboutdatamax_dist_nightprepulseinhibition102.png, 0.0728308738102, -0.37197624849
+bigmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition102.png, -0.0308384201408, 28.240380496
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_nighttappost102.png, 0.00232621809079, 40.1148373984
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition102.png, 0.0752747494831, -0.043532116723
+ribgraph_mean_ribbon_cumdpixresponse_dpix_nighttappost102.png, -0.983044189228, 72.20361014
+smallmovesribgraph_mean_ribbon_peakspeed_nightprepulseinhibition102.png, 0.0445948123477, -0.180496476845
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition102.png, -0.00937300964025, 10.2341400069
+ribgraph_mean_ribbon_peakspeed_nightprepulseinhibition102.png, 0.0811892495689, -0.15134233919
+smallmovesribgraph_mean_ribbon_peakdpix_nightprepulseinhibition102.png, 0.0908717010207, -13.5059921849
+ribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition102.png, 0.168909391647, -0.01528953288
+smallmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition102.png, 0.0368314833793, 13.4119922179
+ribgraph_mean_ribbon_latencyresponse_dpix_nighttappost102.png, 0.000411562852232, 24.0974085366
+ribgraph_mean_ribbon_speedresponse_dist_nightprepulseinhibition102.png, 0.0783274551618, -0.059374966184
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nighttappost102.png, -0.0989601540194, 549.4
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nightprepulseinhibition102.png, -0.323140251444, 0.055471586628
+bigmovesribgraph_mean_ribbon_polygonarea_dist_nightprepulseinhibition102.png, -0.328254971192, 31.427711597
+smallmovesribgraph_mean_ribbon_peakspeed_nighttappost102.png, 0.202952702794, -0.404084032636
+smallmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nighttappost102.png, -0.537342287016, 2.7148834279
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nighttappost102.png, 0.444216730139, -2.5479486681
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition102.png, -0.320710118192, -0.625960907
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nightprepulseinhibition102.png, -0.322826715519, 6.2436852449
+ribgraph_mean_ribbon_velocityresponse_dist_nighttappost102.png, 0.0128988739351, -0.07799569694
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nighttappost102.png, -0.393059606113, 211.517682927
+smallmovesribgraph_mean_ribbon_speedresponse_dist_nighttappost102.png, 0.183989260771, -0.064170410893
+ribgraph_mean_ribbon_timeresponse_dpix_nighttappost102.png, -0.0293315098722, 28.7982384822
+bigmovesribgraph_mean_ribbon_timeresponse_dpix_nighttappost102.png, -0.0379488427649, 20.3
+ribgraph_mean_ribbon_latencyresponse_dpix_nightprepulseinhibition102.png, 0.0117271497341, 11.9308270753
+ribgraph_mean_ribbon_peakdpix_nighttappost102.png, 0.000453627699936, -58.9122919086
+smallmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition102.png, -0.00366153338441, 499.197036615
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nightprepulseinhibition102.png, 0.0616716037927, 24.4630467571
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition102.png, 0.000647528973085, -0.126462853386
+smallmovesribgraph_mean_ribbon_velocityresponse_dist_nighttappost102.png, -0.117391503602, 0.046719353904
+bigmovesribgraph_mean_ribbon_velocityresponse_dist_nighttappost102.png, -0.637351888234, 0.014131904641
+bigmovesribgraph_mean_ribbon_latencyresponse_dpix_nighttappost102.png, -0.0160351130904, -3.5
+bigmovesribgraph_mean_ribbon_freqresponse_dpix_nighttappost102.png, 3.18100467719e-05, -0.108461538462
+bigmovesribgraph_mean_ribbon_totaldistanceresponse_dist_nighttappost102.png, -0.0338948535247, 14.1714639593
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nightprepulseinhibition102.png, 0.0935272881517, -13.7391642071
+bigmovesribgraph_mean_ribbon_cumdpixresponse_dpix_nightprepulseinhibition102.png, -0.00521722916843, 514.53579884
+smallmovesribgraph_mean_ribbon_timeresponse_dpix_nighttappost102.png, -0.0591955797051, 31.2396341467
+ribgraph_mean_ribbon_peakspeed_nighttappost102.png, 0.000164452224952, -0.620782868832
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_nighttappost102.png, 0.000367256473021, 54.8333333333
+ribgraph_mean_ribbon_fullboutdatamax_dist_nighttappost102.png, 5.01534103825e-05, -2.09636836065
+smallmovesribgraph_mean_ribbon_freqresponse_dpix_nightprepulseinhibition102.png, 0.388548572026, -0.017192636424
+ribgraph_mean_ribbon_fullboutdatamax_dpix_nighttappost102.png, 0.00282333473536, -61.1893921794
+ribgraph_mean_ribbon_totaldistanceresponse_dist_nightprepulseinhibition102.png, -0.345776487614, 3.0218861645
+Lowest Features of movement day2nightstim: -0.001
+Average Features of movement day2nightstim: -0.320357142857
+Lowaverage (reg if not >3, <0.05) Features of movement day2nightstim: -0.0084
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2nightstim.png, -0.001, 21.496
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2nightstim.png, 0.366, -0.031
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2nightstim.png, -0.805, 0.212
+ribgraph_mean_ribbonbout_aveboutdist_min_day2nightstim.png, -0.84, 0.284
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2nightstim.png, -0.853, 0.166
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2nightstim.png, 0.249, -0.016
+ribgraph_mean_ribbonbout_aveboutvel_min_day2nightstim.png, 0.671, -0.005
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2nightstim.png, 0.436, -1.24
+ribgraph_mean_ribbonbout_avebouttime_min_day2nightstim.png, -0.152, 2.627
+ribgraph_mean_ribbonbout_avebouttime_10min_day2nightstim.png, -0.038, 4.159
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2nightstim.png, -0.001, 23.277
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2nightstim.png, 0.071, -0.071
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2nightstim.png, -0.001, 15.028
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2nightstim.png, -0.001, 16.095
+Lowest Dark flash block 2 end: -0.182966473099
+Average Dark flash block 2 end: -0.504209064393
+Lowaverage (reg if not >4, <0.05) Dark flash block 2 end: -0.504209064393
+ribgraph_mean_ribbon_speedresponse_dist_b2darkflash103.png, -0.614655851165, 0.060713422567
+ribgraph_mean_ribbon_displacement_dist_b2darkflash103.png, -0.346234821475, 2.312037284
+ribgraph_mean_ribbon_latencyresponse_dpix_b2darkflash103.png, -0.537142631058, -15.81875
+ribgraph_mean_ribbon_fullboutdatamax_dpix_b2darkflash103.png, 0.474851750216, -3.7007698413
+ribgraph_mean_ribbon_fullboutdatamax_dist_b2darkflash103.png, -0.649281554185, 0.59013214358
+ribgraph_mean_ribbon_velocityresponse_dist_b2darkflash103.png, -0.526499627379, 0.010233911955
+ribgraph_mean_ribbon_peakdpix_b2darkflash103.png, 0.974089330919, -1.391119048
+ribgraph_mean_ribbon_freqresponse_dpix_b2darkflash103.png, -0.654866425739, 0.040641025641
+ribgraph_mean_ribbon_timeresponse_dpix_b2darkflash103.png, -0.547893437262, 5.2696666666
+ribgraph_mean_ribbon_polygonarea_dist_b2darkflash103.png, -0.35461352365, 8.2863044218
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_b2darkflash103.png, -0.329809365741, -74.72
+ribgraph_mean_ribbon_cumdpixresponse_dpix_b2darkflash103.png, -0.182966473099, 172.904349204
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_b2darkflash103.png, -0.575162536083, -43.64
+ribgraph_mean_ribbon_totaldistanceresponse_dist_b2darkflash103.png, -0.484978200422, 6.5651451777
+ribgraph_mean_ribbon_peakspeed_b2darkflash103.png, -0.310090437501, 0.156372504357
+Lowest Features of movement day1evening: -0.003
+Average Features of movement day1evening: -0.109928571429
+Lowaverage (reg if not >3, <0.05) Features of movement day1evening: -0.02125
+ribgraph_mean_ribbonbout_aveboutspeed_min_day1evening.png, 0.313, -0.041
+ribgraph_mean_ribbonbout_avebouttime_10min_day1evening.png, 0.162, -1.88
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day1evening.png, -0.006, 9.805
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day1evening.png, -0.003, 11.074
+ribgraph_mean_ribbonbout_avebouttime_min_day1evening.png, 0.176, -1.751
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day1evening.png, 0.145, -0.066
+ribgraph_mean_ribbonbout_aveboutvel_min_day1evening.png, 0.213, -0.014
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day1evening.png, 0.038, -7.001
+ribgraph_mean_ribbonbout_aveboutdisp_min_day1evening.png, 0.087, -1.104
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day1evening.png, 0.038, -1.401
+ribgraph_mean_ribbonbout_aveboutdist_min_day1evening.png, 0.131, -2.373
+ribgraph_mean_ribbonbout_aveboutdist_10min_day1evening.png, 0.067, -3.041
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day1evening.png, 0.062, -5.993
+ribgraph_mean_ribbonbout_aveboutvel_10min_day1evening.png, 0.098, -0.02
+Lowest Features of movement day2nighttrans: -0.00292420592649
+Average Features of movement day2nighttrans: -0.442825097905
+Lowaverage (reg if not >3, <0.05) Features of movement day2nighttrans: -0.442825097905
+ribgraph_mean_ribbonbout_avebouttime_10min_day2nighttrans.png, -0.286149730856, 6.6788748219
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2nighttrans.png, -0.731029791528, 0.016851371713
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2nighttrans.png, -0.240870164539, 2.76961154655
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2nighttrans.png, 0.378, -0.07
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2nighttrans.png, 0.951627739428, -2.0221080636
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2nighttrans.png, -0.00292420592649, 19.4254430132
+ribgraph_mean_ribbonbout_aveboutdist_min_day2nighttrans.png, 0.432, -2.463
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2nighttrans.png, -0.054, 11.921
+ribgraph_mean_ribbonbout_avebouttime_min_day2nighttrans.png, 0.778, -0.952
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2nighttrans.png, -0.532, 0.957
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2nighttrans.png, 0.923, -0.493
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2nighttrans.png, -0.00568263409959, 14.029503636
+ribgraph_mean_ribbonbout_aveboutvel_min_day2nighttrans.png, -0.313, 0.026
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2nighttrans.png, 0.571267104293, -0.129302605208
+Lowest Features of movement day2night2: -0.001
+Average Features of movement day2night2: -0.494642857143
+Lowaverage (reg if not >3, <0.05) Features of movement day2night2: -0.014
+ribgraph_mean_ribbonbout_aveboutvel_min_day2night2.png, 0.85, -0.004
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day2night2.png, -0.011, 14.297
+ribgraph_mean_ribbonbout_avebouttime_10min_day2night2.png, -0.195, 4.327
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day2night2.png, 0.764, -0.018
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day2night2.png, -0.001, 14.87
+ribgraph_mean_ribbonbout_aveboutdist_10min_day2night2.png, -0.935, 0.215
+ribgraph_mean_ribbonbout_aveboutspeed_min_day2night2.png, 0.848, -0.009
+ribgraph_mean_ribbonbout_aveboutdist_min_day2night2.png, -0.535, 1.308
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day2night2.png, -0.043, 10.815
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day2night2.png, 0.771, -0.434
+ribgraph_mean_ribbonbout_aveboutdisp_min_day2night2.png, 0.972, -0.044
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day2night2.png, -0.001, 16.822
+ribgraph_mean_ribbonbout_avebouttime_min_day2night2.png, -0.513, 1.827
+ribgraph_mean_ribbonbout_aveboutvel_10min_day2night2.png, 0.486, -0.017
+Lowest Location in well day2nighttrans: 0.083642324881
+Average Location in well day2nighttrans: 0.41486427672
+Lowaverage (reg if not >3, <0.05) Location in well day2nighttrans: 0.41486427672
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2nighttrans.png, 0.083642324881, 0.06276093151
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2nighttrans.png, -0.401604947412, 0.0103084415584
+ribgraph_mean_ribbonbout_centerfrac_10min_day2nighttrans.png, 0.406132550225, -0.0184853190289
+ribgraph_mean_ribbonbout_averhofrac_min_day2nighttrans.png, -0.177, -0.04
+ribgraph_mean_ribbonbout_centerfrac_min_day2nighttrans.png, -0.221, 0.063
+ribgraph_mean_ribbonbout_averhofrac_10min_day2nighttrans.png, -0.935534391246, -0.002185667453
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2nighttrans.png, -0.098, -0.054
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2nighttrans.png, 0.996, -0.0
+Lowest Features of movement day1mornstim: 0.002
+Average Features of movement day1mornstim: 0.366928571429
+Lowaverage (reg if not >3, <0.05) Features of movement day1mornstim: 0.366928571429
+ribgraph_mean_ribbonbout_aveboutvel_min_day1mornstim.png, 0.476, -0.009
+ribgraph_mean_ribbonbout_aveboutdisp_min_day1mornstim.png, -0.953, 0.043
+ribgraph_mean_ribbonbout_dpixavebouttime_min_day1mornstim.png, 0.097, -6.588
+ribgraph_mean_ribbonbout_aveboutspeed_10min_day1mornstim.png, 0.89, -0.007
+ribgraph_mean_ribbonbout_aveboutdist_min_day1mornstim.png, 0.286, -1.485
+ribgraph_mean_ribbonbout_aveboutcumdpix_10min_day1mornstim.png, -0.118, 6.75
+ribgraph_mean_ribbonbout_aveboutcumdpix_min_day1mornstim.png, -0.005, 11.217
+ribgraph_mean_ribbonbout_aveboutvel_10min_day1mornstim.png, -0.863, 0.004
+ribgraph_mean_ribbonbout_dpixavebouttime_10min_day1mornstim.png, 0.002, -15.545
+ribgraph_mean_ribbonbout_aveboutdisp_10min_day1mornstim.png, -0.493, 0.667
+ribgraph_mean_ribbonbout_avebouttime_min_day1mornstim.png, -0.057, 2.513
+ribgraph_mean_ribbonbout_avebouttime_10min_day1mornstim.png, -0.107, 2.792
+ribgraph_mean_ribbonbout_aveboutspeed_min_day1mornstim.png, 0.108, -0.055
+ribgraph_mean_ribbonbout_aveboutdist_10min_day1mornstim.png, -0.682, 0.785
+Lowest Location in well day2morntrans: -0.00351150953067
+Average Location in well day2morntrans: -0.113345763747
+Lowaverage (reg if not >3, <0.05) Location in well day2morntrans: -0.0211532219946
+ribgraph_mean_ribbonbout_averhofrac_10min_day2morntrans.png, -0.0259515524234, -0.048193347452
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day2morntrans.png, 0.661, -0.023
+ribgraph_mean_ribbonbout_centerfrac_10min_day2morntrans.png, -0.00351150953067, 0.042368779761
+ribgraph_mean_ribbonbout_centerfrac_min_day2morntrans.png, -0.088, 0.113
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day2morntrans.png, -0.00473682494828, -0.052602242035
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day2morntrans.png, -0.052, -0.093
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day2morntrans.png, -0.0245662230706, 0.0126134965572
+ribgraph_mean_ribbonbout_averhofrac_min_day2morntrans.png, -0.047, -0.069
+Lowest Frequency of movement day2nightstim: 0.001
+Average Frequency of movement day2nightstim: 0.18575
+Lowaverage (reg if not >3, <0.05) Frequency of movement day2nightstim: 0.18575
+ribgraph_mean_ribbonbout_numberofbouts_min_day2nightstim.png, -0.199, 0.104
+ribgraph_mean_ribbonbout_numberofbouts_10min_day2nightstim.png, -0.14, 1.231
+ribgraph_mean_ribbon_dpixsecper_min_day2nightstim.png, 0.072, -0.823
+ribgraph_mean_ribbon_distminper_10min_day2nightstim.png, -0.027, 1.266
+ribgraph_mean_ribbonbout_dpixnumberofbouts_min_day2nightstim.png, 0.091, -0.61
+ribgraph_mean_ribbon_dpixminper_10min_day2nightstim.png, -0.075, 0.951
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_10min_day2nightstim.png, -0.038, -12.407
+ribgraph_mean_ribbonbout_avedpixinterboutinterval_min_day2nightstim.png, 0.001, 3.389
+ribgraph_mean_ribbonbout_aveinterboutinterval_min_day2nightstim.png, -0.589, -0.855
+ribgraph_mean_ribbonbout_aveinterboutinterval_10min_day2nightstim.png, -0.356, -11.197
+ribgraph_mean_ribbonbout_dpixnumberofbouts_10min_day2nightstim.png, 0.3, -3.955
+ribgraph_mean_ribbon_distsecper_min_day2nightstim.png, -0.341, 0.206
+Lowest Location in well day1evening: -0.079
+Average Location in well day1evening: -0.126625
+Lowaverage (reg if not >3, <0.05) Location in well day1evening: -0.126625
+ribgraph_mean_ribbonbout_interboutcenterfrac_10min_day1evening.png, -0.18, 0.017
+ribgraph_mean_ribbonbout_averhofrac_min_day1evening.png, -0.109, -0.036
+ribgraph_mean_ribbonbout_interboutcenterfrac_min_day1evening.png, -0.135, 0.028
+ribgraph_mean_ribbonbout_interboutaverhofrac_min_day1evening.png, -0.109, -0.04
+ribgraph_mean_ribbonbout_centerfrac_min_day1evening.png, -0.111, 0.053
+ribgraph_mean_ribbonbout_interboutaverhofrac_10min_day1evening.png, -0.176, -0.034
+ribgraph_mean_ribbonbout_centerfrac_10min_day1evening.png, -0.079, 0.057
+ribgraph_mean_ribbonbout_averhofrac_10min_day1evening.png, -0.114, -0.035
+Lowest Dark flash block 1 end: 0.0238900612522
+Average Dark flash block 1 end: 0.565940926859
+Lowaverage (reg if not >4, <0.05) Dark flash block 1 end: 0.565940926859
+ribgraph_mean_ribbon_velocityresponse_dist_a2darkflash103.png, 0.81205314539, -0.002473990188
+ribgraph_mean_ribbon_latencyresponse_dpix_a2darkflash103.png, 0.0238900612522, 89.268412393
+ribgraph_mean_ribbon_fullboutdatamax_dpix_a2darkflash103.png, -0.93232194259, 1.5474426129
+ribgraph_mean_ribbon_fullboutdatamaxloc_dpix_a2darkflash103.png, 0.486167569789, 54.556923077
+ribgraph_mean_ribbon_peakdpix_a2darkflash103.png, -0.153670369615, 8.8144407811
+ribgraph_mean_ribbon_polygonarea_dist_a2darkflash103.png, -0.993224139763, 2.6697948718
+ribgraph_mean_ribbon_fullboutdatamax_dist_a2darkflash103.png, 0.176881734535, -0.39178443269
+ribgraph_mean_ribbon_fullboutdatamaxloc_dist_a2darkflash103.png, 0.304049504326, 62.763076923
+ribgraph_mean_ribbon_speedresponse_dist_a2darkflash103.png, 0.496905847565, -0.024361946859
+ribgraph_mean_ribbon_cumdpixresponse_dpix_a2darkflash103.png, -0.0994628979153, 214.355912697
+ribgraph_mean_ribbon_displacement_dist_a2darkflash103.png, -0.945836085905, 0.8423891232
+ribgraph_mean_ribbon_freqresponse_dpix_a2darkflash103.png, -0.727520216359, 0.04358974359
+ribgraph_mean_ribbon_peakspeed_a2darkflash103.png, 0.91209347298, -0.096417419679
+ribgraph_mean_ribbon_timeresponse_dpix_a2darkflash103.png, -0.546526183698, 6.6279316239
+ribgraph_mean_ribbon_totaldistanceresponse_dist_a2darkflash103.png, -0.878510731208, 0.719259025
